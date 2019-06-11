@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="app.geodat.MainActivity$PlaceholderFragment" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+    
+  <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <include layout="@layout/tab1" />
+
+                <include layout="@layout/tab3" />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+    
+     <!-- Floating action button -->
+     <RelativeLayout 
+         android:id="@+id/layout_msg"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentRight="true"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:background="@color/alphaBlack"
+         android:visibility="gone">
+        
+         <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:layout_margin="10dp"
+             android:background="#FFFFFF" >
+
+	        <ProgressBar
+	            android:id="@+id/pbHeaderProgress"
+	            android:layout_width="wrap_content"
+	            android:layout_height="match_parent"
+	            android:layout_centerVertical="true"
+	            android:layout_marginLeft="10dp" />
+	
+		     <TextView 
+		         android:id="@+id/text_msg"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:padding="10dp"
+		         android:layout_margin="10dp"
+		         android:text=""
+		         android:layout_centerInParent="true"/>
+	     </LinearLayout>
+     </RelativeLayout>
+
+</RelativeLayout>

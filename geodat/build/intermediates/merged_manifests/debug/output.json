@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":4,"versionName":"1.1","enabled":true,"outputFile":"geodat-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"app.geodat","split":"","minSdkVersion":"19"}}]

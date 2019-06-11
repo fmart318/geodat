@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnguardar"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction ="always"
+        android:title="@string/Guardar"/>
+    
+    <item
+        android:id="@+id/btnenviar"
+        android:icon="@android:drawable/ic_menu_send"
+        app:showAsAction ="ifRoom"
+        android:title="@string/Enviar"/>
+    
+<!--    <item -->
+<!--         android:id="@+id/btncheck" -->
+<!--         android:title="@string/Proyecto" -->
+<!--         android:actionLayout="@drawable/activated_background"/> -->
+   
+<!--    <item -->
+<!--         android:id="@+id/btncuentaMulti" -->
+<!--         android:title="@string/cuentaMulti"/> -->
+    
+    <item 
+        android:id="@+id/btnmapa" 
+        android:title="@string/mapa"/>
+   
+    <item 
+        android:id="@+id/btnactualizar" 
+        android:title="@string/actualizar"/>
+    
+
+</menu>

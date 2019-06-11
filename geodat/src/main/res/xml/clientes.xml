@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <EditTextPreference
+            android:key="c1"
+            android:title="Cliente 1" 
+            android:dialogTitle="Nombre Cliente"
+            />
+        <EditTextPreference
+            android:key="c2"
+            android:title="Cliente 2" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c3"
+            android:title="Cliente 3" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c4"
+            android:title="Cliente 4" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c5"
+            android:title="Cliente 5" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c6"
+            android:title="Cliente" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c7"
+            android:title="Cliente 7" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c8"
+            android:title="Cliente 8" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c9"
+            android:title="Cliente 9" 
+            android:dialogTitle="Nombre Cliente"/>
+        <EditTextPreference
+            android:key="c10"
+            android:title="Cliente 10" 
+            android:dialogTitle="Nombre Cliente"/>
+
+</PreferenceScreen>

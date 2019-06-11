@@ -1,0 +1,98 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:activatedBackgroundIndicator">@drawable/activated_background</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/apptheme_btn_check_holo_light</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/radio_button_selector</item>"
+        <item name="android:textColorHighlight">@color/redDark</item>
+		<item name="android:textSelectHandleLeft">@drawable/apptheme_text_select_handle_left</item>
+		<item name="android:textSelectHandleRight">@drawable/apptheme_text_select_handle_right</item>
+		<item name="android:textSelectHandle">@drawable/apptheme_text_select_handle_middle</item>
+		
+		<item name="actionBarItemBackground">@drawable/selectable_background_rojo</item>
+		<!-- <item name="popupMenuStyle">@style/PopupMenu.Rojo</item>
+		<item name="dropDownListViewStyle">@style/DropDownListView.Rojo</item>
+		<item name="actionDropDownStyle">@style/DropDownNav.Rojo</item> -->
+		
+ 		<!-- Light.DarkActionBar specific -->
+		<item name="actionBarWidgetTheme">@style/Theme.Rojo.Widget</item>
+  
+	</style>
+	
+	
+	<style name="PopupMenu.Rojo" parent="@style/Widget.AppCompat.Light.PopupMenu">	     
+		<item name="android:popupBackground">@drawable/menu_dropdown_panel_rojo</item>	
+	</style>
+		
+	 <style name="DropDownListView.Rojo" parent="@style/Widget.AppCompat.Light.ListView.DropDown"> 
+		<item name="android:listSelector">@drawable/selectable_background_rojo</item>
+	</style>
+	
+	 <style name="DropDownNav.Rojo" parent="@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+		<item name="android:background">@drawable/spinner_background_ab_rojo</item>
+		<item name="android:popupBackground">@drawable/menu_dropdown_panel_rojo</item>
+		<item name="android:dropDownSelector">@drawable/selectable_background_rojo</item>
+	</style>
+		  
+	
+	<!-- this style is only referenced in a Light.DarkActionBar based theme -->
+	<style name="Theme.Rojo.Widget" parent="@style/Theme.AppCompat">
+		<item name="popupMenuStyle">@style/PopupMenu.Rojo</item>
+		<item name="dropDownListViewStyle">@style/DropDownListView.Rojo</item>
+	</style>
+	
+	
+	<style name="dialogAlertTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+	    <item name="android:fullDark">@drawable/boton</item>
+	    <item name="android:topDark">@drawable/boton</item>
+	    <item name="android:centerDark">@drawable/boton</item>
+	    <item name="android:bottomDark">@drawable/boton</item>
+	    <!-- this last line makes no difference to the buttons -->
+	    <item name="android:buttonStyle">@drawable/boton</item> 
+	</style>
+	
+	    
+    
+    <style name="editText" parent="AppBaseTheme">
+        <item name="android:background">#CCCCCC</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:width">10dp</item>
+        <item name="android:height">30dp</item>
+        <item name="android:gravity">center</item>
+	</style>
+	
+   <style name="columnasTabla" parent="AppBaseTheme">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@drawable/celda_cuerpo</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/table_text_size</item>
+        <item name="android:gravity">center_vertical</item>
+	</style>
+	
+   <style name="columnasTablaTrans" parent="AppBaseTheme">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/table_text_size</item>
+        <item name="android:gravity">center_vertical</item>
+	</style>
+	
+   <style name="columnasTabla.ancho">
+       <item name="android:layout_width">140dp</item>
+   </style>
+	
+    <style name="botonCamara" parent="AppBaseTheme">
+        <item name="android:padding">5sp</item>
+        <item name="android:background">#99FFFFFF</item>
+<!--         <item name=android:background>@drawable/botonmap</item> -->
+        
+    </style>
+    <color name="fondoSemiTransparente">#CC000000</color>
+    
+    
+
+</resources>

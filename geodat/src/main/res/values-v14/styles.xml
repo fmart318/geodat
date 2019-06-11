@@ -1,0 +1,36 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+        
+         <item name="android:listChoiceIndicatorMultiple">@drawable/apptheme_btn_check_holo_light</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/radio_button_selector</item>"
+        <item name="android:textColorHighlight">@color/redDark</item>
+		<item name="android:textSelectHandleLeft">@drawable/apptheme_text_select_handle_left</item>
+		<item name="android:textSelectHandleRight">@drawable/apptheme_text_select_handle_right</item>
+		<item name="android:textSelectHandle">@drawable/apptheme_text_select_handle_middle</item>
+		<item name="android:actionBarItemBackground">@drawable/selectable_background_rojo</item>
+		
+		<!-- <item name="android:panelBackground">@drawable/menu_dropdown_panel_rojo</item>
+        
+        
+		<item name="android:popupMenuStyle">@style/PopupMenu.Rojo</item>
+		<item name="android:dropDownListViewStyle">@style/DropDownListView.Rojo</item>
+		<item name="android:actionDropDownStyle">@style/DropDownNav.Rojo</item>
+
+		<item name="android:actionBarWidgetTheme">@style/Theme.Rojo.Widget</item> -->
+    </style>
+    
+    
+	<!-- this style is only referenced in a Light.DarkActionBar based theme -->    
+	<style name="Theme.Rojo.Widget" parent="@style/Theme.AppCompat">
+		<item name="android:popupMenuStyle">@style/PopupMenu.Rojo</item>
+		<item name="android:dropDownListViewStyle">@style/DropDownListView.Rojo</item>
+	</style>
+	
+</resources>

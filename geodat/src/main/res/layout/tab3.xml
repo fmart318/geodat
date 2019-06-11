@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tab3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TableRow
+            android:id="@+id/TableRow2a"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView11l"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/celda_cuerpo"
+                android:paddingLeft="10dp"
+                android:text="@string/Latitud" />
+
+            <TextView
+                android:id="@+id/textView12l"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/celda_cuerpo" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow8a"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView21l"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@drawable/celda_cuerpo"
+                android:paddingLeft="10dp"
+                android:text="@string/Longitud" />
+
+            <TextView
+                android:id="@+id/textView22l"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/celda_cuerpo" />
+        </TableRow>
+    </TableLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" >
+
+        <fragment
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            class="com.google.android.gms.maps.SupportMapFragment" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/imageButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/boton"
+                android:contentDescription="BotonCamara"
+                android:onClick="onClickCamara"
+                android:src="@android:drawable/ic_menu_camera" />
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/boton"
+                android:contentDescription="BotonSeguimiento"
+                android:onClick="onClickSeg"
+                android:src="@android:drawable/ic_menu_mapmode" />
+			
+            
+            
+                
+
+            <ToggleButton
+                android:id="@+id/marcadores"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/boton"
+                android:drawableBottom="@drawable/onoff"
+                android:onClick="onClickMarcadores"
+                android:text="Marcadores"
+                android:textOff="Marcadores"
+                android:textOn="Marcadores"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <SlidingDrawer
+            android:id="@+id/slidingDrawer1"
+            android:layout_width="match_parent"
+            android:layout_height="132dp"
+            android:layout_gravity="bottom"
+            android:content="@+id/content"
+            android:handle="@+id/handle" >
+
+            <ImageButton
+                android:id="@+id/handle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/boton"
+                android:contentDescription="Handle"
+                android:src="@android:drawable/ic_menu_gallery" />
+
+            <HorizontalScrollView
+                android:id="@+id/content"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#CC000000"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:id="@+id/imagen_scroll"
+                    android:layout_width="wrap_content"
+                    android:layout_height="90dp"
+                    android:layout_gravity="bottom"
+                    android:orientation="horizontal"
+                    android:padding="2dp" >
+
+                    <LinearLayout
+                        android:id="@+id/barrabotones"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal" >
+                    </LinearLayout>
+                </LinearLayout>
+            </HorizontalScrollView>
+        </SlidingDrawer>
+    </FrameLayout>
+
+</LinearLayout>

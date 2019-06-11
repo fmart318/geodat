@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory 
+        android:title="Configuración">
+    <CheckBoxPreference 
+        android:key="activar" 
+        android:title="Cuenta múltiple" 
+        android:summary="Active el checkbox si trabajará para más de una cuenta" 
+        android:defaultValue="false"/>
+    <ListPreference 
+        android:entries="@array/canticuentas" 
+        android:entryValues="@array/canticuentas" 
+        android:summary="Seleccione la cantidad de cuentas para la que trabajará" 
+        android:key="cantidad" 
+        android:title="Cantidad"/>
+    </PreferenceCategory>
+    <PreferenceCategory 
+        android:title="Cuenta 1">
+    <EditTextPreference 
+        android:title="Nombre" 
+        android:key="c1" 
+        android:summary="Ingrese el nombre de la cuenta 1"/>
+    <EditTextPreference 
+        android:title="Id" 
+        android:key="id1" 
+        android:inputType="number"
+        android:summary="Ingrese el id de la cuenta 1"/>
+    </PreferenceCategory>
+    <PreferenceCategory 
+        android:title="Cuenta 2">
+    <EditTextPreference 
+        android:title="Nombre" 
+        android:key="c2" 
+        android:summary="Ingrese el nombre de la cuenta 2"/>
+     <EditTextPreference 
+        android:title="Id" 
+        android:key="id2"
+        android:inputType="number" 
+        android:summary="Ingrese el id de la cuenta 2"/>
+     </PreferenceCategory>
+     <PreferenceCategory 
+        android:title="Cuenta 3">
+    <EditTextPreference 
+        android:title="Nombre" 
+        android:key="c3" 
+        android:summary="Ingrese el nombre de la cuenta 3"/>
+    <EditTextPreference 
+        android:title="Id" 
+        android:key="id3" 
+        android:inputType="number"
+        android:summary="Ingrese el id de la cuenta 3"/>
+    </PreferenceCategory>
+    <PreferenceCategory 
+        android:title="Cuenta 4">
+    <EditTextPreference 
+        android:title="Nombre" 
+        android:key="c4" 
+        android:summary="Ingrese el nombre de la cuenta 4"/>
+    <EditTextPreference 
+        android:title="Id" 
+        android:key="id4" 
+        android:inputType="number"
+        android:summary="Ingrese el id de la cuenta 4"/>
+    </PreferenceCategory>
+    <PreferenceCategory 
+        android:title="Cuenta 5">
+    <EditTextPreference 
+        android:title="Nombre" 
+        android:key="c5" 
+        android:summary="Ingrese el nombre de la cuenta 5"/>
+    </PreferenceCategory>
+    <EditTextPreference 
+        android:title="Id" 
+        android:key="id5" 
+        android:inputType="number"
+        android:summary="Ingrese el id de la cuenta 5"/>
+
+</PreferenceScreen>

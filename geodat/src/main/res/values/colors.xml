@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- 	<item name="redDark" type="color">#800000</item> -->
+<!-- 	<item name="redDarker" type="color">#730000</item> -->
+<!-- 	<item name="redDarkest" type="color">#680000</item> -->
+<!-- 	<item name="white" type="color">#FFFFFF</item> -->
+<!-- 	<item name="black" type="color">#000000</item> -->
+<!-- 	<item name="grayDark" type="color">#191919</item> -->
+<!-- 	<item name="alphaBlack" type="color">#90000000</item> -->
+<!-- 	<item name="transparent" type="color">#00000000</item> -->
+<!-- 	<item name="alphaRed" type="color">#CC800000</item> -->
+
+	<item name="redDark" type="color">#28c0c8</item>
+	<item name="redDarker" type="color">#28a8aa</item>
+	<item name="redDarkest" type="color">#1c888a</item>
+	<item name="white" type="color">#FFFFFF</item>
+	<item name="black" type="color">#000000</item>
+	<item name="grayDark" type="color">#191919</item>
+	<item name="alphaBlack" type="color">#90000000</item>
+	<item name="transparent" type="color">#00000000</item>
+	<item name="alphaRed" type="color">#CC28c0c8</item>
+
+</resources>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tab1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="top"
+    android:orientation="vertical"
+    android:paddingTop="4dp"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" 
+            android:fastScrollEnabled="true">
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TableRow
+                    android:id="@+id/TableRow1a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/textView1a"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_span="2"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_header2"
+                        android:gravity="center"
+                        android:text="@string/Titulo"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="bold" />
+                </TableRow>
+                
+			</TableLayout>
+                
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/table_background"
+                android:orientation="horizontal" >
+
+                <TableRow
+                    android:id="@+id/TableRow2a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbarStyle="insideInset" >
+                </TableRow>
+                
+                <!-- <TableRow
+                    android:id="@+id/TableRow3a"
+                    android:layout_width="fill_parent"
+                    android:minHeight="@dimen/table_row_height"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/textView3a"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/celda_cuerpo"
+                        android:gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/table_text_size"
+                        android:text="@string/agente" />
+
+                    <View
+        				android:layout_height="fill_parent"
+        				android:layout_width="1dp"
+        				android:background="#000000" />
+                    
+                    <EditText
+                        android:id="@+id/editText3a"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/table_text_size"
+                        android:background="@drawable/celda_cuerpo"
+                        android:inputType="text"  />
+                    
+                </TableRow>
+                
+                <View
+                    android:background="#000000" 
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp" /> -->
+                
+                <TableRow
+                    android:id="@+id/TableRow6a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="@dimen/table_row_height" >
+
+                    <TextView
+                        android:id="@+id/TextView5a"
+                        style="@style/columnasTabla"
+                        android:text="@string/Fecha"/>
+
+                    <EditText
+                        android:id="@+id/EditText5a"
+                        style="@style/columnasTabla"
+                        android:layout_weight="1"
+                        android:focusable="false"
+                        android:focusableInTouchMode="false"
+                        android:inputType="number"
+                        android:layout_marginLeft="-2dp"/>
+
+                </TableRow>
+
+                 <!-- Cuentas -->
+                <TableRow
+                	android:id="@+id/TableRow4a"
+                	android:layout_width="fill_parent"
+                	android:layout_height="wrap_content"
+                	android:minHeight="@dimen/table_row_height" 
+                	android:scrollbarStyle="insideInset" 
+                	android:layout_marginTop="-2dp">
+
+                <TextView
+                    android:id="@+id/TextView02"
+                    style="@style/columnasTabla"
+                    android:text="@string/Cuenta" 
+                    android:visibility="gone"/>
+                
+				<TableRow
+                    android:id="@+id/TableRow02"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:scrollbarStyle="insideInset" >
+                    
+	             <Spinner
+	                android:id="@+id/Spinner1"
+	                android:layout_width="wrap_content"
+	                android:layout_height="fill_parent"
+					android:layout_weight="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+	                android:background="@drawable/celda_cuerpo"
+	                android:entries="@array/cuentas"
+	                android:gravity="center"
+	                android:prompt="@array/cuentas" 
+	                android:visibility="gone"
+	                android:layout_marginLeft="-2dp"/>
+	                </TableRow>
+                </TableRow>
+				
+                <!--fin-->
+                   
+                <TableRow
+                    android:id="@+id/TableRow5a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="@dimen/table_row_height"
+                    android:scrollbarStyle="insideInset" 
+                    android:layout_marginTop="-2dp">
+
+                    <TextView
+                        android:id="@+id/textView4a"
+                        style="@style/columnasTabla"
+                        android:text="@string/Proyecto" />
+
+                    <TableRow
+                        android:id="@+id/TableRow01"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:scrollbarStyle="insideInset" 
+                        >
+
+                        <Spinner
+                            android:id="@+id/spinner2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:paddingTop="10dp"
+                            android:paddingBottom="10dp"
+                            android:gravity="center_vertical"
+                            android:background="@drawable/celda_cuerpo"
+                            android:entries="@array/proyectos"
+                            android:prompt="@array/proyectos"
+                            android:layout_marginLeft="-2dp"
+                            />
+                        
+                    </TableRow>
+                </TableRow>
+
+
+                <TableRow
+                    android:id="@+id/TableRow7a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/textView6a"
+                        style="@style/columnasTabla"
+                        android:text="@string/Fecha"
+                        android:textSize="@dimen/table_text_size"
+                        android:visibility="gone" />
+
+                    <EditText
+                        android:id="@+id/editText6a"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/table_text_size"
+                        android:background="@drawable/celda_cuerpo"
+                        android:focusableInTouchMode="false"
+                        android:inputType="date"
+                        android:visibility="gone" />
+                </TableRow>
+                
+                <TableRow
+                    android:id="@+id/TableRow8a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/textView7a"
+                        style="@style/columnasTabla"
+                        android:text="@string/locacion"
+                        android:visibility="gone" />
+
+                    <EditText
+                        android:id="@+id/editText7a"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:focusable="false"
+                        android:gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:focusableInTouchMode="false"
+                        android:inputType="number"
+                        android:visibility="gone" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow9a"
+                    android:layout_width="fill_parent"
+                    android:minHeight="@dimen/table_row_height"
+                    android:layout_height="wrap_content" 
+                    android:layout_marginTop="-2dp">
+
+                    <TextView
+                        android:id="@+id/textView9a"
+                        style="@style/columnasTabla"
+                        android:text="@string/IdPunto" />
+
+                    <EditText
+                        android:id="@+id/editText9a"
+                        style="@style/columnasTabla"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:inputType="text" 
+                        android:layout_marginLeft="-2dp">
+
+                    </EditText>
+                </TableRow>
+                
+                <TableRow
+                    android:id="@+id/TableRow10a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="@dimen/table_row_height" 
+                    android:layout_marginTop="-2dp">
+
+                    <TextView
+                        android:id="@+id/textView10a"
+                        style="@style/columnasTabla"
+                        android:text="@string/Referencia" />
+
+                    <EditText
+                        android:id="@+id/editText10a"
+                        style="@style/columnasTabla"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:inputType="text" 
+                        android:layout_marginLeft="-2dp">
+                    </EditText>
+                </TableRow>
+
+            </TableLayout>
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TableRow
+                    android:id="@+id/TableRow1b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/TextView01"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_span="2"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_header2"
+                        android:gravity="center"
+                        android:text="@string/chkcert"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="bold" />
+                </TableRow>
+
+            </TableLayout>
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/table_background"
+                android:orientation="horizontal">
+
+                <TableRow
+                    android:id="@+id/TableRow2b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView1b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_width="match_parent"
+                        android:layout_weight="8"
+                        android:maxEms="30" />
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup1b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="-2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/radio1b"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:text="@string/Si"
+                            android:textSize="@dimen/table_text_size" />
+
+                        <RadioButton
+                            android:id="@+id/radio1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="@string/No"
+                            android:textSize="@dimen/table_text_size" />
+                    </RadioGroup>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow3b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-2dp"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView2b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_width="match_parent"
+                        android:layout_weight="8" />
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup2b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="-2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/radio2b"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:text="@string/Si"
+                            android:textSize="@dimen/table_text_size" />
+
+                        <RadioButton
+                            android:id="@+id/RadioButton02"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="@string/No"
+                            android:textSize="@dimen/table_text_size" />
+                    </RadioGroup>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow4b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-2dp"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView3b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_width="match_parent"
+                        android:layout_weight="8" />
+
+                    <RadioGroup
+                        android:id="@+id/RadioGroup3b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="-2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/radio3b"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:text="@string/Si"
+                            android:textSize="@dimen/table_text_size" />
+
+                        <RadioButton
+                            android:id="@+id/RadioButton03"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="@string/No"
+                            android:textSize="@dimen/table_text_size" />
+                    </RadioGroup>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow5b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-2dp"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView4b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_width="match_parent"
+                        android:layout_weight="8" />
+
+                    <EditText
+                        android:id="@+id/editText4b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="-2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:gravity="center_vertical"
+                        android:inputType="numberDecimal"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/table_text_size" />
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow6b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-2dp"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView5b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_width="match_parent"
+                        android:layout_weight="8" />
+
+                    <EditText
+                        android:id="@+id/editText5b"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="-2dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/celda_cuerpo"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:inputType="numberDecimal"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/table_text_size" />
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow7b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="-2dp"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView6b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_span="2"
+                        android:layout_weight="1"
+                        android:text="@string/Comentarios" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow8b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="-2dp"
+                    android:layout_weight="2"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <EditText
+                        android:id="@+id/editText6b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_span="2"
+                        android:layout_weight="1"
+                        android:ems="10"
+                        android:inputType="textMultiLine"
+                        android:minHeight="80dp"></EditText>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/TableRow9b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="-2dp"
+                    android:layout_weight="2"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView7b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_span="2"
+                        android:layout_weight="1"
+                        android:text="@string/Grabacion" />
+                </TableRow>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-2dp"
+                    android:background="@drawable/celda_cuerpo"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/Grabar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/boton"
+                        android:onClick="onClickGrabar"
+                        android:src="@android:drawable/ic_btn_speak_now" />
+
+                    <ImageButton
+                        android:id="@+id/Detener"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/boton"
+                        android:contentDescription="detener"
+                        android:onClick="onClickDetener"
+                        android:src="@android:drawable/ic_media_pause" />
+
+                    <ImageButton
+                        android:id="@+id/Reproducir"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/boton"
+                        android:onClick="onClickReproducir"
+                        android:src="@android:drawable/ic_media_play" />
+
+                    <ImageButton
+                        android:id="@+id/Borrar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/boton"
+                        android:onClick="onClickBorrar"
+                        android:src="@android:drawable/ic_menu_delete" />
+                </LinearLayout>
+
+
+                <TableRow
+                    android:id="@+id/TableRow10b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="-2dp"
+                    android:layout_weight="2"
+                    android:minHeight="@dimen/table_row_height">
+
+                    <TextView
+                        android:id="@+id/textView8b"
+                        style="@style/columnasTabla.ancho"
+                        android:layout_span="2"
+                        android:layout_weight="1"
+                        android:text="@string/leerQr" />
+                </TableRow>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-2dp"
+                    android:background="@drawable/celda_cuerpo"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/Grabar2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/boton"
+                        android:onClick="onClickLecturaCod"
+                        android:src="@android:drawable/ic_menu_crop" />
+
+                    <TextView
+                        android:id="@+id/tvCodigoLeido"
+                        style="@style/columnasTablaTrans"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:paddingLeft="10dp" />
+                </LinearLayout>
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

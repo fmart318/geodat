@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceScreen
+        android:key="s41"
+        android:title="Proyecto 1" >
+        
+        <EditTextPreference
+            android:key="e41"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p411"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" 
+            />
+        <EditTextPreference
+            android:key="p412"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p413"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p414"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p415"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s42"
+        android:title="Proyecto 2" >
+        
+        <EditTextPreference
+            android:key="e42"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p421"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p422"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p423"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p424"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p425"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s43"
+        android:title="Proyecto 3" >
+        
+        <EditTextPreference
+            android:key="e43"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p431"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p432"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p433"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p434"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p435"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s44"
+        android:title="Proyecto 4" >
+        
+        <EditTextPreference
+            android:key="e44"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p441"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p442"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p443"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p444"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p445"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s45"
+        android:title="Proyecto 5" >
+        
+        <EditTextPreference
+            android:key="e45"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p451"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p452"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p453"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p454"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p455"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s46"
+        android:title="Proyecto 6" >
+        
+        <EditTextPreference
+            android:key="e46"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p461"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p462"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p463"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p464"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p465"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s47"
+        android:title="Proyecto 7" >
+        
+        <EditTextPreference
+            android:key="e47"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p471"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p472"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p473"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p474"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p475"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s48"
+        android:title="Proyecto 8" >
+        
+        <EditTextPreference
+            android:key="e48"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p481"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p482"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p483"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p484"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p485"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s49"
+        android:title="Proyecto 9" >
+        
+        <EditTextPreference
+            android:key="e49"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p491"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p492"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p493"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p494"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p495"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s410"
+        android:title="Proyecto 10" >
+        
+        <EditTextPreference
+            android:key="e410"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4101"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4102"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4103"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4104"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4105"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s411"
+        android:title="Proyecto 11" >
+        
+        <EditTextPreference
+            android:key="e411"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4111"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4112"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4113"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4114"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4115"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s412"
+        android:title="Proyecto 12" >
+        
+        <EditTextPreference
+            android:key="e412"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4121"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4122"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4123"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4124"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4125"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s413"
+        android:title="Proyecto 13" >
+        
+        <EditTextPreference
+            android:key="e413"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4131"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4132"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4133"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4134"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4135"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s414"
+        android:title="Proyecto 14" >
+        
+        <EditTextPreference
+            android:key="e414"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4141"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4142"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4143"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4144"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4145"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s415"
+        android:title="Proyecto 15" >
+        
+        <EditTextPreference
+            android:key="e415"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4151"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4152"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4153"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4154"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4155"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s416"
+        android:title="Proyecto 16" >
+        
+        <EditTextPreference
+            android:key="e416"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4161"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4162"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4163"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4164"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4165"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s417"
+        android:title="Proyecto 17" >
+        
+        <EditTextPreference
+            android:key="e417"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4171"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4172"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4173"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4174"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4175"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="s418"
+        android:title="Proyecto 18" >
+        
+        <EditTextPreference
+            android:key="e418"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4181"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4182"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4183"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4184"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4185"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s419"
+        android:title="Proyecto 19" >
+        
+        <EditTextPreference
+            android:key="e419"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4191"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4192"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4193"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4194"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4195"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        android:key="s420"
+        android:title="Proyecto 20" >
+        
+        <EditTextPreference
+            android:key="e420"
+            android:title="Nombre Proyecto" 
+            android:summary="@string/nomproy"/>
+        
+        <EditTextPreference
+            android:key="p4201"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta1" />
+        <EditTextPreference
+            android:key="p4202"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta2" />
+        <EditTextPreference
+            android:key="p4203"
+            android:summary="@string/resppos"
+            android:title="@string/pregunta3" />
+        <EditTextPreference
+            android:key="p4204"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta4" />
+        <EditTextPreference
+            android:key="p4205"
+            android:summary="@string/resppos2"
+            android:title="@string/pregunta5" />
+    </PreferenceScreen>
+    
+
+</PreferenceScreen>
