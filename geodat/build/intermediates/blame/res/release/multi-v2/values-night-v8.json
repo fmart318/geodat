@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lauta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta1.aar\\14f23652b2458103a7fc45601a999720\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

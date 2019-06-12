@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "/Users/felipemartinez/Developer/geodat/geodat/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",

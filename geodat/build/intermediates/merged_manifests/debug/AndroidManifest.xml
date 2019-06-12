@@ -55,7 +55,6 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/nombre_app"
         android:logo="@drawable/ic_action_geodat"
-        android:testOnly="true"
         android:theme="@style/AppBaseTheme" >
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"

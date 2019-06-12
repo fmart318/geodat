@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy-rAM/values-hy-rAM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lauta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.4.0.aar\\0cb5a8f8863da62bafd3ba34ee172382\\res\\values-hy-rAM\\common_strings.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/res/values-hy-rAM/common_strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Lauta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-8.4.0.aar\\4ea93584c836468fdab6b425feb9b8f8\\res\\values-hy-rAM\\base_strings.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/res/values-hy-rAM/base_strings.xml",
                     "from": {
                         "startLines": "24,10,9,8,7,5,6,4,19,18,17,16,3,28,27,26,25,21,20,22,12,11,15,14,13,23,29,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Lauta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-location-8.4.0.aar\\18ac361a9b2c2d7002fed5db7df37e6a\\res\\values-hy-rAM\\location_strings.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/res/values-hy-rAM/location_strings.xml",
                     "from": {
                         "startLines": "6,5",
                         "startColumns": "4,4",

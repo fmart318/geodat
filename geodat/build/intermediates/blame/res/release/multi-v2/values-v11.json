@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "D:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "/Users/felipemartinez/Developer/geodat/geodat/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Lauta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-beta1.aar\\14f23652b2458103a7fc45601a999720\\res\\values-v11\\values-v11.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/values-v11/values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
