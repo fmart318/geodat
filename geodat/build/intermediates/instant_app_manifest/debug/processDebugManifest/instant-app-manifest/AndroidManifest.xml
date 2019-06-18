@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="app.geodat"
     android:targetSandboxVersion="2"
-    android:versionCode="4"
-    android:versionName="1.1" >
+    android:versionCode="5"
+    android:versionName="1.2" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -56,6 +56,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/nombre_app"
         android:logo="@drawable/ic_action_geodat"
+        android:testOnly="true"
         android:theme="@style/AppBaseTheme" >
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"

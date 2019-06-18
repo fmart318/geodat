@@ -1,4 +1,4 @@
-#Wed Jun 12 08:52:07 ART 2019
+#Tue Jun 18 08:30:50 ART 2019
 base.0=/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

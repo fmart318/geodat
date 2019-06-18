@@ -271,16 +271,16 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
 		}
 
-		//Boton seg
-		SharedPreferences prefere = PreferenceManager.getDefaultSharedPreferences(MainActivity.this);
-		Boolean seg = prefere.getBoolean("seguimiento", false);
-		ImageButton btnSeg = (ImageButton) findViewById(R.id.imageButton2);
-		if (seg) {
-			btnSeg.setBackgroundResource(drawable.boton);
-		} else {
-			btnSeg.setBackgroundResource(drawable.botoninv);
-
-		}
+//		//Boton seg
+//		SharedPreferences prefere = PreferenceManager.getDefaultSharedPreferences(MainActivity.this);
+//		Boolean seg = prefere.getBoolean("seguimiento", false);
+//		ImageButton btnSeg = (ImageButton) findViewById(R.id.imageButton2);
+//		if (seg) {
+//			btnSeg.setBackgroundResource(drawable.boton);
+//		} else {
+//			btnSeg.setBackgroundResource(drawable.botoninv);
+//
+//		}
 
 
 	}
@@ -807,28 +807,28 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
 	}
 
-	public void onClickSeg(View view) {
-		// Obtener Preferencias
-		SharedPreferences prefer = PreferenceManager.getDefaultSharedPreferences(MainActivity.this);
-		Boolean seg = prefer.getBoolean("seguimiento", false);
-		SharedPreferences.Editor editor = prefer.edit();
-		ImageButton btnSeg = (ImageButton) findViewById(R.id.imageButton2);
-		if (seg) {
-
-			startService(new Intent(this, ServiceSeg.class));
-			notificar("Seguimiento Activado");
-			editor.putBoolean("seguimiento", false);
-//			btnSeg.setBackgroundResource(drawable.botoninv);
-		} else {
-
-			stopService(new Intent(this, ServiceSeg.class));
-			notificar("Seguimiento Desactivado");
-			editor.putBoolean("seguimiento", true);
-			btnSeg.setBackgroundResource(drawable.boton);
-
-		}
-		editor.commit();
-	}
+//	public void onClickSeg(View view) {
+//		// Obtener Preferencias
+//		SharedPreferences prefer = PreferenceManager.getDefaultSharedPreferences(MainActivity.this);
+//		Boolean seg = prefer.getBoolean("seguimiento", false);
+//		SharedPreferences.Editor editor = prefer.edit();
+//		ImageButton btnSeg = (ImageButton) findViewById(R.id.imageButton2);
+//		if (seg) {
+//
+//			startService(new Intent(this, ServiceSeg.class));
+//			notificar("Seguimiento Activado");
+//			editor.putBoolean("seguimiento", false);
+////			btnSeg.setBackgroundResource(drawable.botoninv);
+//		} else {
+//
+//			stopService(new Intent(this, ServiceSeg.class));
+//			notificar("Seguimiento Desactivado");
+//			editor.putBoolean("seguimiento", true);
+//			btnSeg.setBackgroundResource(drawable.boton);
+//
+//		}
+//		editor.commit();
+//	}
 
 	public void onClickEnviar(boolean nuevo) {
 		
@@ -1220,7 +1220,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 			if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
 				// TODO: Consider calling
 				//    ActivityCompat#requestPermissions
-				// here to request the missing permissions, and then overriding
+				// here to request the missing permissions, and then overridingSeguimi
 				//   public void onRequestPermissionsResult(int requestCode, String[] permissions,
 				//                                          int[] grantResults)
 				// to handle the case where the user grants the permission. See the documentation
