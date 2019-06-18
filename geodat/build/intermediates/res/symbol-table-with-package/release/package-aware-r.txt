@@ -917,7 +917,6 @@ id icon_only
 id ifRoom
 id image
 id imageButton1
-id imageButton2
 id imageView
 id imageView1
 id image_view

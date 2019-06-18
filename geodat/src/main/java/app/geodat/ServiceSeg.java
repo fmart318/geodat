@@ -69,6 +69,9 @@ public class ServiceSeg extends Service {
 	public void onStart(Intent intent, int startId) {
 		locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 		listener = new MyLocationListener();
+		if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+			return;
+		}
 		locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, listener);
 		locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, listener);
 	}
@@ -206,13 +209,13 @@ public class ServiceSeg extends Service {
 	
 	     public void onProviderDisabled(String provider)
 	     {
-	         Toast.makeText( getApplicationContext(), "Gps deshabilitado", Toast.LENGTH_SHORT ).show();
+//	         Toast.makeText( getApplicationContext(), "Gps deshabilitado", Toast.LENGTH_SHORT ).show();
 	     }
 	
 	
 	     public void onProviderEnabled(String provider)
 	     {
-	         Toast.makeText( getApplicationContext(), "Gps habilitado", Toast.LENGTH_SHORT).show();
+//	         Toast.makeText( getApplicationContext(), "Gps habilitado", Toast.LENGTH_SHORT).show();
 	     }
 	
 	

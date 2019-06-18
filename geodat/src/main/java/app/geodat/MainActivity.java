@@ -281,8 +281,6 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 //			btnSeg.setBackgroundResource(drawable.botoninv);
 //
 //		}
-
-
 	}
 
 	public void notificar(String cadena) {
@@ -445,6 +443,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
 		actualizarPantalla();
 
+		startService(new Intent(this, ServiceSeg.class));
 	}
 
 	public void actualizarPantalla() {

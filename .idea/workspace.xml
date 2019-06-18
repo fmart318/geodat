@@ -10,7 +10,296 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c61a8272-a10f-4475-bbfc-f3f057950b21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/geodat/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Developer-geodat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Developer-geodat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captureActivity/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/captureActivity/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/coreui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/fragment/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/graphics/drawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/graphics/drawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/graphics/drawable/animated/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/mediacompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/v4/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/app/geodat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/app/geodat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/base/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/base/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/location/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/location/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/maps/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/android/gms/maps/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/zxing/client/android/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/google/zxing/client/android/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/source/buildConfig/debug/app/geodat/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/source/buildConfig/debug/app/geodat/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/generated/source/buildConfig/release/app/geodat/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/generated/source/buildConfig/release/app/geodat/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/apk_list/release/mainApkListPersistenceRelease/apk-list.gson" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/apk_list/release/mainApkListPersistenceRelease/apk-list.gson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/blame/res/release/multi-v2/release.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/blame/res/release/multi-v2/release.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/blame/res/release/single/release.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/blame/res/release/single/release.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/release/processReleaseManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/release/processReleaseManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/release/processReleaseManifest/bundle-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/bundle_manifest/release/processReleaseManifest/bundle-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/dex/release/mergeDexRelease/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/dex/release/mergeDexRelease/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et-rEE/values-et-rEE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu-rES/values-eu-rES.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl-rES/values-gl-rES.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is-rIS/values-is-rIS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km-rKH/values-km-rKH.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my-rMM/values-my-rMM.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-no/values-no.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-si-rLK/values-si-rLK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te-rIN/values-te-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v12/values-v12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh/values-zh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/IeBPMzTB37tQsQ7VeTe7OPGoltw=" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/IeBPMzTB37tQsQ7VeTe7OPGoltw=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/release/processReleaseManifest/instant-app-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/release/processReleaseManifest/instant-app-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/release/processReleaseManifest/instant-app-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/instant_app_manifest/release/processReleaseManifest/instant-app-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/instant_run_merged_manifests/release/processReleaseManifest/instant-run/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/instant_run_merged_manifests/release/processReleaseManifest/instant-run/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$9$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$9$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$9$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$9$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$PlaceholderFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity$PlaceholderFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/ServiceSeg$MyLocationListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/ServiceSeg$MyLocationListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/ServiceSeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/app/geodat/ServiceSeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/compat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/coreui/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/coreutils/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/fragment/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/graphics/drawable/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/graphics/drawable/animated/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/graphics/drawable/animated/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/mediacompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/v4/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/android/support/v7/appcompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$xml.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/R$xml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/SplashActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/app/geodat/SplashActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/base/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/base/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/location/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/location/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/maps/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/android/gms/maps/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/zxing/client/android/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/google/zxing/client/android/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/linked_res_for_bundle/release/bundleReleaseResources/bundled-res.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/linked_res_for_bundle/release/bundleReleaseResources/bundled-res.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/merged_manifests/release/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/metadata_feature_manifest/debug/processDebugManifest/metadata-feature/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/metadata_feature_manifest/debug/processDebugManifest/metadata-feature/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/metadata_feature_manifest/release/processReleaseManifest/metadata-feature/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/metadata_feature_manifest/release/processReleaseManifest/metadata-feature/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/module_bundle/release/buildReleasePreBundle/out/base.zip" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/module_bundle/release/buildReleasePreBundle/out/base.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/debug/processDebugResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/release/processReleaseResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/release/processReleaseResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/res/merged/release/layout_tab3.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/res/merged/release/layout_tab3.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/signing_config/release/out/signing-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/signing_config/release/out/signing-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/symbols/release/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/symbols/release/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$10.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$10.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$7.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$7.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$8.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$8.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$9$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$9$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$9$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$9$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$9.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$9.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$PlaceholderFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity$PlaceholderFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/ServiceSeg$MyLocationListener.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/ServiceSeg$MyLocationListener.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/ServiceSeg.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/debug/0/app/geodat/ServiceSeg.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/compat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/compat/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/coreui/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/coreui/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/coreutils/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/coreutils/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/fragment/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/fragment/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/graphics/drawable/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/graphics/drawable/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/graphics/drawable/animated/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/graphics/drawable/animated/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/mediacompat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/mediacompat/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/v4/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/v4/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/v7/appcompat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/android/support/v7/appcompat/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/MainActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$integer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$integer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$layout.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$layout.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$menu.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$menu.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$mipmap.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$mipmap.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$raw.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$raw.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$string.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$string.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$style.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$style.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$styleable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$styleable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$xml.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/R$xml.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/SplashActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/app/geodat/SplashActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/base/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/base/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/location/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/location/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/maps/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/android/gms/maps/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/zxing/client/android/R$id.dex" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/intermediates/transforms/dexBuilder/release/0/com/google/zxing/client/android/R$id.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/outputs/apk/debug/geodat-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/outputs/apk/debug/geodat-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/build/outputs/apk/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/build/outputs/apk/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/geodat-geodat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/geodat-geodat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/release/geodat.aab" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/release/geodat.aab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,40 +322,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="280" column="24" selection-start-line="280" selection-start-column="24" selection-end-line="280" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geodat/src/main/res/layout/fragment_main.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geodat/src/main/res/layout/tab3.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="88" selection-end-column="70" />
+            <state relative-caret-position="-1719">
+              <caret line="505" column="40" selection-start-line="505" selection-start-column="40" selection-end-line="505" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/geodat/src/main/AndroidManifest.xml">
+        <entry file="file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="347">
+              <caret line="218" column="10" lean-forward="true" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/os/Looper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding>
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/java/lang/reflect/Method.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/location/LocationManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#7704#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/location/LocationManager.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geodat/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/captureActivity/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -82,16 +406,26 @@
       <find>tabs</find>
       <find>TabHost</find>
       <find>tab3</find>
-      <find>map</find>
       <find>seguimiento de</find>
       <find>onClickSeg</find>
       <find>versionn</find>
+      <find>map</find>
+      <find>seguimiento</find>
       <find>imageButton2</find>
+      <find>gps de</find>
+      <find>onProviderDisabled</find>
+      <find>seg</find>
+      <find>ServiceSeg</find>
+      <find>sta</find>
+      <find>MyLocationListener</find>
+      <find>servicese</find>
+      <find>listener</find>
+      <find>onresu</find>
     </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="$USER_HOME$/Downloads/geodat_keystore" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/geodat_keystore" />
     <option name="KEY_ALIAS" value="geodat" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -102,8 +436,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/geodat/src/main/res/layout/tab3.xml" />
-        <option value="$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java" />
         <option value="$PROJECT_DIR$/geodat/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/captureActivity/build.gradle" />
+        <option value="$PROJECT_DIR$/geodat/build.gradle" />
+        <option value="$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java" />
+        <option value="$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java" />
       </list>
     </option>
   </component>
@@ -117,7 +454,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -153,8 +490,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,10 +654,10 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.8333333" visible="true" weight="0.2761087" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.58603066" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.5010661" side_tool="true" weight="0.26466382" />
-      <window_info id="Build Variants" order="4" sideWeight="0.16666667" side_tool="true" visible="true" weight="0.2761087" />
+      <window_info id="Build Variants" order="4" sideWeight="0.41396934" side_tool="true" visible="true" weight="0.27539343" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
@@ -328,52 +665,40 @@
       <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49928468" weight="0.32939634" />
       <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49928468" weight="0.32939634" />
       <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49928468" weight="0.32939634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2152231" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2296588" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49928468" weight="0.32939634" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5035765" side_tool="true" weight="0.38451442" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49928468" weight="0.32939634" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49642345" visible="true" weight="0.2992126" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49642345" weight="0.2992126" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Android Profiler" order="9" sideWeight="0.49928468" weight="0.32939634" />
-      <window_info anchor="right" id="Preview" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java</url>
+          <line>217</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/contact-results-screen.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/big-qr.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/demo-no.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/demo-yes.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/scan-example.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/scan-from-phone.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/search-book-contents.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/big-datamatrix.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/assets/images/big-aztec.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captureActivity/src/main/res/drawable/launcher_icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/geodat/src/main/res/drawable-mdpi/activated_background.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -498,14 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geodat/src/main/res/layout/fragment_main.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/geodat/src/main/res/layout/tab3.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -514,20 +831,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/geodat/src/main/res/layout/fragment_main.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="280" column="24" selection-start-line="280" selection-start-column="24" selection-end-line="280" selection-end-column="24" />
+        <state relative-caret-position="376">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/geodat/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/location/LocationManager.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodat/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/captureActivity/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/location/LocationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#7704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/content/ContextWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="356" column="25" selection-start-line="356" selection-start-column="25" selection-end-line="356" selection-end-column="25" />
+          <folding>
+            <element signature="e#10520#10521#0" expanded="true" />
+            <element signature="e#10571#10572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/location/LocationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/os/Looper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1719">
+          <caret line="505" column="40" selection-start-line="505" selection-start-column="40" selection-end-line="505" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodat/src/main/java/app/geodat/ServiceSeg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="218" column="10" lean-forward="true" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
