@@ -857,6 +857,7 @@ id bottom
 id btnactualizar
 id btnenviar
 id btnguardar
+id btnlogout
 id btnmapa
 id button1
 id buttonPanel
@@ -1363,6 +1364,8 @@ string imagen
 string leerQr
 string locacion
 string login
+string logout
+string logout_confirmacion
 string mapa
 string menu_encode_mecard
 string menu_encode_vcard

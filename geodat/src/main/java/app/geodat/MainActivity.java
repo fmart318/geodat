@@ -414,11 +414,23 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		if (keyCode == KeyEvent.KEYCODE_BACK) {
-			onClickLogout();
+			new AlertDialog.Builder(this)
+					.setMessage("¿Desea salir de GEODAT?")
+					.setNegativeButton(android.R.string.cancel, null)
+					.setPositiveButton(android.R.string.ok, salir()).show();
 			return true;
 		}
 		// para las demas cosas, se reenvia el evento al listener habitual
 		return super.onKeyDown(keyCode, event);
+	}
+
+	private DialogInterface.OnClickListener salir() {
+		return new DialogInterface.OnClickListener() {
+			@Override
+			public void onClick(DialogInterface dialog, int which) {
+				MainActivity.this.finish();
+			}
+		};
 	}
 
 	@Override

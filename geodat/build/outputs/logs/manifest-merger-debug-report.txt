@@ -26,7 +26,7 @@ INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidMani
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:6:5-30
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:6:5-32
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 	xmlns:tools
