@@ -108,5 +108,7 @@
     <string name="login">LOGIN</string>
     <string name="no_usuario">NO ES USUARIO</string>
     <string name="suscribir">SUSCRIBIR</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="logout_confirmacion">¿Desea desconectarse de Geodat?</string>
 	
 </resources>

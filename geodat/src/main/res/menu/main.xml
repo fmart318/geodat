@@ -29,6 +29,10 @@
     <item 
         android:id="@+id/btnactualizar" 
         android:title="@string/actualizar"/>
+
+    <item
+        android:id="@+id/btnlogout"
+        android:title="@string/logout"/>
     
 
 </menu>

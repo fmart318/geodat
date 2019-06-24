@@ -342,6 +342,9 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 			} finally {
 				return true;
 			}
+		} else if (itemId == R.id.btnlogout) {
+			onClickLogout();
+			return true;
 		} else {
 			return super.onOptionsItemSelected(item);
 		}
@@ -411,26 +414,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		if (keyCode == KeyEvent.KEYCODE_BACK) {
-			new AlertDialog.Builder(this)
-					.setMessage("¿Desea salir de GEODAT?")
-					.setNegativeButton(android.R.string.cancel, null)
-					// sin listener
-					.setPositiveButton(android.R.string.ok,
-							new DialogInterface.OnClickListener() {// un
-								// listener
-								// que al
-								// pulsar,
-								// cierre la
-								// aplicacion
-								@Override
-								public void onClick(DialogInterface dialog,
-													int which) {
-									// Salir
-									MainActivity.this.finish();
-								}
-							}).show();
-			// Si el listener devuelve true, significa que el evento esta
-			// procesado, y nadie debe hacer nada mas
+			onClickLogout();
 			return true;
 		}
 		// para las demas cosas, se reenvia el evento al listener habitual
@@ -828,6 +812,23 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 //		}
 //		editor.commit();
 //	}
+
+	private void onClickLogout() {
+		new AlertDialog.Builder(this)
+				.setMessage(R.string.logout_confirmacion)
+				.setNegativeButton(android.R.string.cancel, null)
+				.setPositiveButton(android.R.string.ok, logout()).show();
+	}
+
+	private DialogInterface.OnClickListener logout() {
+		return new DialogInterface.OnClickListener() {
+			@Override
+			public void onClick(DialogInterface dialog, int which) {
+				stopService(new Intent(MainActivity.this, ServiceSeg.class));
+				MainActivity.this.finish();
+			}
+		};
+	}
 
 	public void onClickEnviar(boolean nuevo) {
 		
