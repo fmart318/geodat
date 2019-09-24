@@ -8,6 +8,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
+import android.telephony.TelephonyManager;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -16,7 +17,9 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class SplashActivity extends FragmentActivity{
+import static android.widget.Toast.*;
+
+public class SplashActivity extends FragmentActivity implements ActualizarDelegate {
 
 	//private static final int MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 100;
 	private static final int PERMISSION_ALL = 100;
@@ -68,8 +71,24 @@ public class SplashActivity extends FragmentActivity{
 			ActivityCompat.requestPermissions(this, PERMISSIONS, PERMISSION_ALL);
 		}
 		else {
-			startMainActivity();
+			try {
+				new Actualizar(this, SplashActivity.this).execute("", ge_timei());
+			} catch (Exception ex) {
+
+			}
 		}
+	}
+
+	public String ge_timei() {
+
+		TelephonyManager tm = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
+		if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
+			makeText( getApplicationContext(), "Imei necesario", LENGTH_SHORT ).show();
+		}
+		String imei = tm.getDeviceId();
+
+		return (imei);
+//		return "860046038880938";
 	}
 
 	public void login(View view) {
@@ -108,5 +127,19 @@ public class SplashActivity extends FragmentActivity{
 			// permissions this app might request
 		}
 	}
-		
+
+	@Override
+	public void actualizarExitoso() {
+		startMainActivity();
+	}
+
+	@Override
+	public void actualizarFallo() {
+
+	}
+
+	@Override
+	public void notificar(String mensaje) {
+		makeText(getApplicationContext(), mensaje, LENGTH_LONG).show();
+	}
 }

@@ -14,6 +14,7 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.json.JSONObject;
 
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -37,7 +38,7 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 	private static final String MSG_PROCESS_ERROR = "Se produjo un error al intentar actualizar proyectos";
 
 	private static final String TAG = "Actualizar";
-	MainActivity mainActivity;
+	ActualizarDelegate delegate;
 	Context context;
 	private ProgressDialog pDialog;
 	String ip = "";
@@ -45,8 +46,8 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 	String url = "";
 	String msg = "Error";
 
-	public Actualizar(MainActivity mainActivity, Context context) {
-		this.mainActivity = mainActivity;
+	public Actualizar(ActualizarDelegate delegate, Context context) {
+		this.delegate = delegate;
 		this.context = context;
 	}
 
@@ -63,9 +64,13 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 	@Override
 	protected void onPostExecute(String result) {
 		super.onPostExecute(result);
-		mainActivity.actualizarPantalla();
+		if (result == MSG_OK) {
+			delegate.actualizarExitoso();
+		} else {
+			delegate.actualizarFallo();
+		}
 		pDialog.dismiss();
-		mainActivity.notificar(msg);
+		delegate.notificar(msg);
 	}
 
 	@Override

@@ -93,7 +93,7 @@ import app.geodat.Util.Formulario;
 
 import android.Manifest;
 
-public class MainActivity extends AppCompatActivity implements LocationListener {
+public class MainActivity extends AppCompatActivity implements LocationListener, ActualizarDelegate {
 
 	private static final int MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 100;
 	private NotificationManager nm;
@@ -281,6 +281,16 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 //			btnSeg.setBackgroundResource(drawable.botoninv);
 //
 //		}
+	}
+
+	@Override
+	public void actualizarExitoso() {
+		actualizarPantalla();
+	}
+
+	@Override
+	public void actualizarFallo() {
+		actualizarPantalla();
 	}
 
 	public void notificar(String cadena) {
