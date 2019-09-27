@@ -188,7 +188,7 @@ public class ManipulacionJson {
 					ex.printStackTrace();
 				}
 			}else if (archivosJson > 0) {
-				msg = "Se enviaran " + archivosJson + " formularios";
+				msg = "Se enviaran " + archivosJson + " formulario/s";
 				
 				if (archivos > 0 && audioCant > 0){
 					msg += ", " + archivos + " imagen/es, y " + audioCant + " audio/s";
