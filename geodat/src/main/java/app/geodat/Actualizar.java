@@ -79,6 +79,7 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 		this.ip = params[0];
 		this.imei = params[1];
 		this.url = "https://geodatlog.com/" + "programas/actualizar/actualizar.php?IMEI=" + imei;
+
 		Log.d(TAG, "Url: " + url);
 		String result = readJSONFeed(url);
 		if (!result.isEmpty()){

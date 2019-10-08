@@ -1399,6 +1399,9 @@ string msg_share_explanation
 string msg_share_text
 string msg_sure
 string msg_unmount_usb
+string new_user_button
+string new_user_text
+string new_user_title
 string noArchivos
 string no_usuario
 string nombre_app
@@ -1451,6 +1454,7 @@ string pregunta2
 string pregunta3
 string pregunta4
 string pregunta5
+string register_url
 string resppos
 string resppos2
 string result_address_book

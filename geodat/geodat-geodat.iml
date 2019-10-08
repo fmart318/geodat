@@ -111,5 +111,7 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-compat:26.0.0-beta1@aar" level="project" />
     <orderEntry type="module" module-name="captureActivity" />
     <orderEntry type="module" module-name="captureActivity" />
+    <orderEntry type="module" module-name="captureActivity" />
+    <orderEntry type="module" module-name="captureActivity" />
   </component>
 </module>

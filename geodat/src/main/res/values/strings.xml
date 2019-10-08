@@ -105,10 +105,16 @@
     <string name="actualizar">Actualizar</string>
     <string name="nombre_app">GEODAT</string>
     <string name="leerQr">Leer código de barras o QR</string>
-    <string name="login">LOGIN</string>
+    <string name="login">Iniciar Sesión</string>
     <string name="no_usuario">NO ES USUARIO</string>
     <string name="suscribir">SUSCRIBIR</string>
     <string name="logout">Cerrar Sesión</string>
     <string name="logout_confirmacion">¿Desea desconectarse de Geodat?</string>
-	
+
+    <string name="new_user_title">Hola y gracias por descargar Geodat!</string>
+    <string name="new_user_button">Registrar</string>
+    <string name="new_user_text">"Al parecer no estás vinculado a una cuenta en este momento. Para poder acceder a una cuenta GRATUITA de prueba y comenzar a usar el servicio por favor registrese. Si ya se registro, por favor aguarde a que se complete el proceso. Gracias!</string>
+    <string name="register_url">https://geodat.app/activacionnuevacuenta.html</string>
+
+
 </resources>

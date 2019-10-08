@@ -1,7 +1,9 @@
 package app.geodat;
 
 import android.Manifest;
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
@@ -14,14 +16,11 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import static android.widget.Toast.*;
 
 public class SplashActivity extends FragmentActivity implements ActualizarDelegate {
 
-	//private static final int MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 100;
 	private static final int PERMISSION_ALL = 100;
 	String[] PERMISSIONS = {
 			Manifest.permission.READ_EXTERNAL_STORAGE,
@@ -43,20 +42,8 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
 		final ImageView arrows = (ImageView) findViewById(R.id.arrows);
 		Animation myFadeInAnimation = AnimationUtils.loadAnimation(this, R.anim.blink);
 		arrows.startAnimation(myFadeInAnimation);
-		
-		TextView btnsuscribir = (TextView) findViewById(R.id.textView2);
-
-		btnsuscribir.setOnClickListener(new View.OnClickListener() {
-		    @Override
-		    public void onClick(View v) {
-		    	Intent intent = new Intent(Intent.ACTION_VIEW,
-						Uri.parse("https://www.geodat.app/"));
-				startActivity(intent);
-		    }
-		});
 
 		viewProgressBar = (ProgressBar)findViewById(R.id.progressBar);
-
 	}
 
 	private void startMainActivity() {
@@ -92,10 +79,7 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
 	}
 
 	public void login(View view) {
-
-		//viewProgressBar.setVisibility(View.VISIBLE);
 		checkAllLogin();
-		//viewProgressBar.setVisibility(View.GONE);
 	}
 
 	public static boolean hasPermissions(Context context, String... permissions) {
@@ -112,19 +96,14 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
 
 
 	@Override
-	public void onRequestPermissionsResult(int requestCode,
-										   String permissions[], int[] grantResults) {
+	public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
 		switch (requestCode) {
 			case PERMISSION_ALL: {
-				// If request is cancelled, the result arrays are empty.
 				if (grantResults.length > 0
 						&& grantResults[0] == PackageManager.PERMISSION_GRANTED) {
 						checkAllLogin();
 				}
 			}
-
-			// other 'case' lines to check for other
-			// permissions this app might request
 		}
 	}
 
@@ -135,7 +114,18 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
 
 	@Override
 	public void actualizarFallo() {
-
+		AlertDialog alertDialog = new AlertDialog.Builder(SplashActivity.this, R.style.Theme_AppCompat_Light_Dialog_Alert).create();
+		alertDialog.setTitle(R.string.new_user_title);
+		alertDialog.setMessage(getString(R.string.new_user_text));
+		alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, getString(R.string.new_user_button),
+				new DialogInterface.OnClickListener() {
+					public void onClick(DialogInterface dialog, int which) {
+						dialog.dismiss();
+						Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.register_url)));
+						startActivity(intent);
+					}
+				});
+		alertDialog.show();
 	}
 
 	@Override

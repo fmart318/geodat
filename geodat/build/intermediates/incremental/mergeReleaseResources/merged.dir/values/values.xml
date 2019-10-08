@@ -533,7 +533,7 @@
     <string name="imagen">Imagen</string>
     <string name="leerQr">Leer código de barras o QR</string>
     <string name="locacion">Locación</string>
-    <string name="login">LOGIN</string>
+    <string name="login">Iniciar Sesión</string>
     <string name="logout">Cerrar Sesión</string>
     <string name="logout_confirmacion">¿Desea desconectarse de Geodat?</string>
     <string name="mapa">Mapa</string>
@@ -569,6 +569,9 @@
     <string name="msg_share_text">Or type some text and press Enter</string>
     <string name="msg_sure">Are you sure?</string>
     <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="new_user_button">Registrar</string>
+    <string name="new_user_text">"Al parecer no estás vinculado a una cuenta en este momento. Para poder acceder a una cuenta GRATUITA de prueba y comenzar a usar el servicio por favor registrese. Si ya se registro, por favor aguarde a que se complete el proceso. Gracias!</string>
+    <string name="new_user_title">Hola y gracias por descargar Geodat!</string>
     <string name="noArchivos">No se encontgraron archivos</string>
     <string name="no_usuario">NO ES USUARIO</string>
     <string name="nombre_app">GEODAT</string>
@@ -621,6 +624,7 @@
     <string name="pregunta3">Pregunta 3</string>
     <string name="pregunta4">Pregunta 4</string>
     <string name="pregunta5">Pregunta 5</string>
+    <string name="register_url">https://geodat.app/activacionnuevacuenta.html</string>
     <string name="resppos">Respuesta posible: si/no</string>
     <string name="resppos2">Respuesta posible: número</string>
     <string name="result_address_book">Found contact info</string>
