@@ -105,7 +105,7 @@
     <string name="actualizar">Actualizar</string>
     <string name="nombre_app">GEODAT</string>
     <string name="leerQr">Leer código de barras o QR</string>
-    <string name="login">Iniciar Sesión</string>
+    <string name="login">INICIAR SESIÓN</string>
     <string name="no_usuario">NO ES USUARIO</string>
     <string name="suscribir">SUSCRIBIR</string>
     <string name="logout">Cerrar Sesión</string>

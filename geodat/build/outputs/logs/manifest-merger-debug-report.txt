@@ -34,7 +34,7 @@ INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidMani
 	xmlns:android
 		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:5:5-28
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:5:5-29
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 permission#app.geodat.lautaromap.permission.MAPS_RECEIVE

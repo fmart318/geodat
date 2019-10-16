@@ -533,7 +533,7 @@
     <string name="imagen">Imagen</string>
     <string name="leerQr">Leer código de barras o QR</string>
     <string name="locacion">Locación</string>
-    <string name="login">Iniciar Sesión</string>
+    <string name="login">INICIAR SESIÓN</string>
     <string name="logout">Cerrar Sesión</string>
     <string name="logout_confirmacion">¿Desea desconectarse de Geodat?</string>
     <string name="mapa">Mapa</string>
