@@ -32,24 +32,24 @@
         "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
-        "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
         "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
         "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-mdpi_botonmap_disabled.xml.flat",
@@ -92,12 +92,12 @@
         "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-hdpi_apptheme_btn_check_off_disabled_focused_holo_light.png.flat",
         "source": "/Users/felipemartinez/Developer/geodat/geodat/src/main/res/drawable-hdpi/apptheme_btn_check_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",

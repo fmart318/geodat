@@ -66,7 +66,9 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 		super.onPostExecute(result);
 		if (result == MSG_OK) {
 			delegate.actualizarExitoso();
-		} else {
+		} else if (result == MSG_NO_CONECTION) {
+			delegate.sinConexion();
+		}else {
 			delegate.actualizarFallo();
 		}
 		pDialog.dismiss();

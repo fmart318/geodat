@@ -1403,6 +1403,9 @@ string new_user_button
 string new_user_text
 string new_user_title
 string noArchivos
+string no_network_button
+string no_network_text
+string no_network_title
 string no_usuario
 string nombre_app
 string nomproy

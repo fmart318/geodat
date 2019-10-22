@@ -293,6 +293,11 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 		actualizarPantalla();
 	}
 
+	@Override
+	public void sinConexion() {
+		actualizarPantalla();
+	}
+
 	public void notificar(String cadena) {
 		// Notificamos con un toast
 		Context contexto = getApplicationContext();

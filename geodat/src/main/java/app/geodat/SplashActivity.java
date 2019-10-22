@@ -129,6 +129,21 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
 	}
 
 	@Override
+	public void sinConexion() {
+		AlertDialog alertDialog = new AlertDialog.Builder(SplashActivity.this, R.style.Theme_AppCompat_Light_Dialog_Alert).create();
+		alertDialog.setTitle(R.string.no_network_title);
+		alertDialog.setMessage(getString(R.string.no_network_text));
+		alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, getString(R.string.no_network_button),
+				new DialogInterface.OnClickListener() {
+					public void onClick(DialogInterface dialog, int which) {
+						dialog.dismiss();
+						startMainActivity();
+					}
+				});
+		alertDialog.show();
+	}
+
+	@Override
 	public void notificar(String mensaje) {
 		makeText(getApplicationContext(), mensaje, LENGTH_LONG).show();
 	}
