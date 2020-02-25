@@ -729,9 +729,8 @@ drawable common_plus_signin_btn_text_light_pressed
 drawable custom_info_bubble
 drawable dummy
 drawable geodat_text
-drawable ic_action_geodat
+drawable ic_header
 drawable ic_launcher
-drawable ic_stat_geodat
 drawable intemax
 drawable launcher_icon
 drawable list_focused_rojo
@@ -777,6 +776,7 @@ drawable table_background
 drawable toggle_marcadores
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font header
 id ALT
 id Borrar
 id CTRL

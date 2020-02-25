@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: __local_aars__:/Users/felipemartinez/Developer/geodat/geodat/libs/org.apache.http.legacy.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/geodat/libs/org.apache.http.legacy.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

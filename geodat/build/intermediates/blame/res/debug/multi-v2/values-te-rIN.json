@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml",
+            "outputFile": "/Users/felipe/Develop/geodat/geodat/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/res/values-te-rIN/location_strings.xml",
+                    "source": "/Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/res/values-te-rIN/common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "230",
+                        "endOffsets": "396"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "2814",
+                        "endColumns": "226",
+                        "endOffsets": "3036"
+                    }
+                },
+                {
+                    "source": "/Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/742b3ea94f788a6d39f1e582abeb4c85/res/values-te-rIN/location_strings.xml",
                     "from": {
                         "startLines": "6,5",
                         "startColumns": "4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/res/values-te-rIN/base_strings.xml",
+                    "source": "/Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/3316c1ac7f48b0c445c24e69dd2c265e/res/values-te-rIN/base_strings.xml",
                     "from": {
                         "startLines": "24,10,9,8,7,5,6,4,19,18,17,16,3,28,27,26,25,21,20,22,12,11,15,14,13,23,29,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "105,367,498,684,816,944,1145,1351,1478,1648,1766,1929,2061,2199,2374,2504,2688,3041,3272,3393,3503,3687,3817,4027,4166,4355,4448,4546",
                         "endColumns": "261,130,185,131,127,200,205,126,169,117,162,131,137,174,129,183,125,230,120,109,183,129,209,138,188,92,97,111",
                         "endOffsets": "362,493,679,811,939,1140,1346,1473,1643,1761,1924,2056,2194,2369,2499,2683,2809,3267,3388,3498,3682,3812,4022,4161,4350,4443,4541,4653"
-                    }
-                },
-                {
-                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/res/values-te-rIN/common_strings.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "170",
-                        "endColumns": "230",
-                        "endOffsets": "396"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "2814",
-                        "endColumns": "226",
-                        "endOffsets": "3036"
                     }
                 }
             ]

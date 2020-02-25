@@ -143,7 +143,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
             StrictMode.VmPolicy.Builder builder = new StrictMode.VmPolicy.Builder();
             StrictMode.setVmPolicy(builder.build());
             getSupportActionBar().setDisplayShowHomeEnabled(true);
-            getSupportActionBar().setIcon(R.drawable.ic_action_geodat);
+            getSupportActionBar().setIcon(drawable.ic_header);
+
         }
 
 		// Notificacion
@@ -1512,8 +1513,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 		}
 		String imei = tm.getDeviceId();
 
-		return (imei);
-//		return "860046038880938";
+//		return (imei);
+		return "860046038880938";
 	}
 
 	@SuppressWarnings("deprecation")
@@ -1527,7 +1528,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 		
 		Notification notification = new NotificationCompat.Builder(this)
 	            .setTicker(titulo)
-	            .setSmallIcon(R.drawable.ic_stat_geodat)
+	            .setSmallIcon(drawable.ic_header)
 	            .setContentTitle(titulo)
 	            .setContentText(info)
 	            .setContentIntent(pi)

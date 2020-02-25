@@ -1,4 +1,0 @@
-#Sun Mar 31 23:40:33 ART 2019
-base.0=D\:\\Lautaro\\Programacion\\LibGDX\\TrackYControl-LWS\\geodat\\build\\intermediates\\transforms\\dexMerger\\debug\\8
-path.0=classes.dex
-renamed.0=classes.dex

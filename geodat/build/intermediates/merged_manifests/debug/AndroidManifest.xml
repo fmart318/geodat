@@ -54,7 +54,7 @@
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/nombre_app"
-        android:logo="@drawable/ic_action_geodat"
+        android:logo="@drawable/ic_header"
         android:testOnly="true"
         android:theme="@style/AppBaseTheme" >
         <meta-data
@@ -85,7 +85,7 @@
             android:name="app.geodat.MainActivity"
             android:icon="@drawable/ic_launcher"
             android:launchMode="singleTask"
-            android:logo="@drawable/ic_action_geodat"
+            android:logo="@drawable/ic_header"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" >
         </activity>
