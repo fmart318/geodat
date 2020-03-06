@@ -17,8 +17,14 @@
 		
  		<!-- Light.DarkActionBar specific -->
 		<item name="actionBarWidgetTheme">@style/Theme.Rojo.Widget</item>
+        <item name="titleTextAppearance">@style/HeaderStyle</item>
   
 	</style>
+
+    <style name="HeaderStyle">
+        <item name="android:fontFamily">@font/header</item>
+        <item name="android:textColor">@color/alphaRed</item>
+    </style>
 	
 	
 	<style name="PopupMenu.Rojo" parent="@style/Widget.AppCompat.Light.PopupMenu">	     

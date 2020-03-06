@@ -23,8 +23,8 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int italic = 0x7f090092;
-        public static final int normal = 0x7f0900ac;
+        public static final int italic = 0x7f090093;
+        public static final int normal = 0x7f0900ad;
     }
     public static final class styleable {
         private styleable() {}

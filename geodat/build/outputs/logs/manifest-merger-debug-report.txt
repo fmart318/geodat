@@ -1,490 +1,490 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/742b3ea94f788a6d39f1e582abeb4c85/AndroidManifest.xml:16:1-20:12
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-187:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:16:1-28:12
-MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/3316c1ac7f48b0c445c24e69dd2c265e/AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:16:1-20:12
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-187:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-99:12
 	package
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:4:5-25
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:4:5-25
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:6:5-32
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:5:5-29
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 permission#app.geodat.lautaromap.permission.MAPS_RECEIVE
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:9:5-11:47
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:9:5-11:47
 	android:protectionLevel
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:11:9-44
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:11:9-44
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:10:9-69
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:10:9-69
 uses-permission#app.geodat.permission.MAPS_RECEIVE
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:13:5-74
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:13:5-74
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:13:22-71
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:13:22-71
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:14:5-98
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:14:5-98
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:14:22-95
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:14:22-95
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:15:5-81
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-81
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-81
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:15:5-81
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-81
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-81
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:15:22-78
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:15:22-78
 uses-permission#android.permission.INTERNET
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:16:5-67
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:21:5-66
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:16:5-67
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:16:22-64
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:16:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:17:5-79
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:20:5-78
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:17:22-76
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:18:5-79
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:18:22-76
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:18:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:19:5-81
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:19:22-78
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:19:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:20:5-71
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:20:5-71
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:20:22-68
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:20:22-68
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:21:5-75
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:21:5-75
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:21:22-72
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:21:22-72
 uses-permission#android.permission.CAMERA
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:22:2-62
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-65
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-65
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:22:2-62
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-65
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-65
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:22:19-59
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:22:19-59
 uses-feature#android.hardware.camera
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:23:5-24:35
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:23:5-24:35
 	android:required
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:24:9-32
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:24:9-32
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:23:19-57
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:23:19-57
 uses-feature#0x00020000
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:26:5-28:35
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:22:5-24:33
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:22:5-24:33
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:22:5-24:33
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:22:5-24:33
 	android:glEsVersion
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:27:9-41
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:28:9-32
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:28:9-32
 application
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:30:5-97:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/742b3ea94f788a6d39f1e582abeb4c85/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/742b3ea94f788a6d39f1e582abeb4c85/AndroidManifest.xml:19:5-20
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-185:19
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-185:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:25:5-29:19
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:30:5-97:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:19:5-20
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-185:19
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-185:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:32:9-43
-		REJECTED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:9-41
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:32:9-43
+		REJECTED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:9-41
 	android:icon
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:33:9-45
-		REJECTED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-47
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:33:9-45
+		REJECTED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-47
 	android:allowBackup
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:31:9-35
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:31:9-35
 	android:theme
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:35:9-44
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:35:9-44
 	tools:replace
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:36:9-64
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:36:9-64
 	android:logo
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:34:9-43
-		REJECTED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-47
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:34:9-43
+		REJECTED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-47
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:37:9-39:70
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:37:9-39:70
 	android:value
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:39:12-67
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:39:12-67
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:38:12-61
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:38:12-61
 meta-data#com.google.android.gms.version
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:43:9-45:69
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:21:9-23:69
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:43:9-45:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:45:13-66
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:45:13-66
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:44:13-58
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:44:13-58
 uses-library#com.google.android.maps
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:47:9-64
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:47:9-64
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:47:23-61
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:47:23-61
 activity#app.geodat.SplashActivity
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:49:9-60:20
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:49:9-60:20
 	android:screenOrientation
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:52:13-49
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:52:13-49
 	android:label
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:51:13-47
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:51:13-47
 	android:launchMode
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:54:13-44
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:54:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:53:13-54
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:53:13-54
 	android:theme
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:55:13-60
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:55:13-60
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:50:13-53
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:50:13-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:56:13-59:29
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:56:13-59:29
 action#android.intent.action.MAIN
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:57:17-69
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:57:17-69
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:57:25-66
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:57:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:58:17-77
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:58:17-77
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:58:27-74
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:58:27-74
 activity#app.geodat.MainActivity
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:61:9-68:20
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:61:9-68:20
 	android:screenOrientation
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:65:13-49
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:65:13-49
 	android:launchMode
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:67:13-44
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:67:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:66:13-54
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:66:13-54
 	android:icon
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:64:13-49
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:64:13-49
 	android:logo
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:63:13-47
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:63:13-47
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:62:13-51
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:62:13-51
 activity#app.geodat.Agente
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:70:9-73:20
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:70:9-73:20
 	android:label
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:72:13-35
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:72:13-35
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:71:13-45
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:71:13-45
 activity#app.geodat.Cuentas
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:74:9-77:20
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:74:9-77:20
 	android:label
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:76:13-36
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:76:13-36
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:75:13-46
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:75:13-46
 service#app.geodat.ServiceSeg
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:78:9-65
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:78:9-65
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:78:18-54
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:78:18-54
 activity#com.google.zxing.client.android.CaptureActivity
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:81:9-94:14
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-117:20
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-117:20
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:81:9-94:14
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-117:20
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-117:20
 	android:screenOrientation
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:85:6-42
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:85:6-42
 	android:clearTaskOnLaunch
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:83:6-38
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:83:6-38
 	android:stateNotNeeded
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:86:6-35
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:86:6-35
 	android:windowSoftInputMode
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:87:13-60
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:87:13-60
 	android:configChanges
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:84:6-56
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:84:6-56
 	android:theme
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-48
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-48
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:82:6-68
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:82:6-68
 intent-filter#action:name:app.geodat.SCAN+category:name:android.intent.category.DEFAULT
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:90:13-93:29
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:90:13-93:29
 action#app.geodat.SCAN
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:91:17-58
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:91:17-58
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:91:25-55
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:91:25-55
 category#android.intent.category.DEFAULT
-ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:92:17-76
+ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:92:17-76
 	android:name
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml:92:27-73
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:92:27-73
 uses-sdk
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/742b3ea94f788a6d39f1e582abeb4c85/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/742b3ea94f788a6d39f1e582abeb4c85/AndroidManifest.xml:18:5-42
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:41
-MERGED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/371a4d94b8da4e451a45c01ed03dd0bf/AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/3316c1ac7f48b0c445c24e69dd2c265e/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/3316c1ac7f48b0c445c24e69dd2c265e/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipe/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/28dca6e3ecf434a451ec918cf1f04c2e/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:21:5-23:58
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:18:5-42
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:41
+MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		ADDED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
-		INJECTED from /Users/felipe/Develop/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0713bf515b4946638a2d288f4b35504c/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d5aa4c6b45dd4cb0c779e40e23243463/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/a73853a062ffc2cbb8d78ab53635e455/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/5aaea7d9351e3b21dbc09dd5bc8ff0b4/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/0a722c67bb7eb714002af5003a341648/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/d1bba991818c57e545d6300bab2ab509/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6a3552908527663bb274038d155f1cac/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/a35d739b6c4063b8e2764d10542fe027/AndroidManifest.xml:26:9-28:44
+ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:26:9-28:44
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:28:13-41
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:28:13-41
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.VIBRATE
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-66
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-66
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:22-63
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:22-63
 uses-permission#android.permission.FLASHLIGHT
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-69
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-69
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:22-66
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:22-66
 uses-permission#android.permission.READ_CONTACTS
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-72
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-72
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:22-69
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:22-69
 uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-93
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-93
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:22-90
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:22-90
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-76
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-76
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:22-73
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:22-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-76
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-76
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:22-73
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:22-73
 uses-feature#android.hardware.camera.any
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:5-64
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:5-64
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:19-61
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:19-61
 uses-feature#android.hardware.camera.autofocus
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-43:36
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-43:36
 	android:required
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-33
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-33
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-57
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-57
 uses-feature#android.hardware.camera.flash
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:5-46:36
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:5-46:36
 	android:required
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:9-33
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:9-33
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:9-53
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:9-53
 uses-feature#android.hardware.screen.landscape
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:5-70
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:5-70
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:19-67
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:19-67
 uses-feature#android.hardware.wifi
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:5-50:36
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:5-50:36
 	android:required
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:9-33
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:9-33
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-45
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-45
 intent-filter#action:name:com.example.formularioandroid.SCAN+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-68:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-68:29
 action#com.example.formularioandroid.SCAN
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:17-77
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:17-77
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:25-74
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:25-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:zxing.appspot.com+data:path:/scan+data:scheme:http
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-80:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-80:29
 action#android.intent.action.VIEW
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:17-69
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:17-69
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:25-66
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:17-78
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:17-78
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:27-75
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:27-75
 data
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:17-79:45
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:17-79:45
 	android:path
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:21-41
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:21-41
 	android:host
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:21-53
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:21-53
 	android:scheme
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:21-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:21-42
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.google.com+data:path:/m/products/scan+data:scheme:http
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-92:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-92:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.google.co.uk+data:path:/m/products/scan+data:scheme:http
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:94:13-104:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:94:13-104:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:scan+data:path:/+data:scheme:zxing
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:106:13-116:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:106:13-116:29
 activity#com.google.zxing.client.android.PreferencesActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:118:9-121:45
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:118:9-121:45
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:121:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:121:13-42
 	android:label
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:120:13-53
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:120:13-53
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:119:13-79
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:119:13-79
 activity#com.google.zxing.client.android.encode.EncodeActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:122:9-146:20
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:122:9-146:20
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:124:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:124:13-42
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:123:13-81
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:123:13-81
 intent-filter#action:name:com.google.zxing.client.android.ENCODE+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:125:13-129:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:125:13-129:29
 action#com.google.zxing.client.android.ENCODE
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:126:17-81
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:126:17-81
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:126:25-78
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:126:25-78
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/x-vcard
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:131:13-137:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:131:13-137:29
 action#android.intent.action.SEND
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:132:17-69
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:132:17-69
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:132:25-66
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:132:25-66
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:139:13-145:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:139:13-145:29
 activity#com.google.zxing.client.android.book.SearchBookContentsActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:147:9-157:20
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:147:9-157:20
 	android:screenOrientation
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:150:13-49
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:150:13-49
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:151:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:151:13-42
 	android:label
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:149:13-45
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:149:13-45
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:148:13-91
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:148:13-91
 intent-filter#action:name:com.google.zxing.client.android.SEARCH_BOOK_CONTENTS+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:152:13-156:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:152:13-156:29
 action#com.google.zxing.client.android.SEARCH_BOOK_CONTENTS
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:153:17-95
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:153:17-95
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:153:25-92
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:153:25-92
 activity#com.google.zxing.client.android.share.ShareActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:158:9-167:20
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:158:9-167:20
 	android:screenOrientation
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:160:13-49
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:160:13-49
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:161:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:161:13-42
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:159:13-79
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:159:13-79
 intent-filter#action:name:com.google.zxing.client.android.SHARE+category:name:android.intent.category.DEFAULT
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:162:13-166:29
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:162:13-166:29
 action#com.google.zxing.client.android.SHARE
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:163:17-80
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:163:17-80
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:163:25-77
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:163:25-77
 activity#com.google.zxing.client.android.history.HistoryActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:168:9-171:45
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:168:9-171:45
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:171:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:171:13-42
 	android:label
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:170:13-50
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:170:13-50
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:169:13-83
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:169:13-83
 activity#com.google.zxing.client.android.share.BookmarkPickerActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:172:9-175:45
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:172:9-175:45
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:175:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:175:13-42
 	android:label
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:174:13-57
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:174:13-57
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:173:13-88
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:173:13-88
 activity#com.google.zxing.client.android.share.AppPickerActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:176:9-179:45
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:176:9-179:45
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:179:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:179:13-42
 	android:label
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:178:13-52
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:178:13-52
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:177:13-83
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:177:13-83
 activity#com.google.zxing.client.android.HelpActivity
-ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:180:9-184:45
+ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:180:9-184:45
 	android:screenOrientation
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:183:13-49
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:183:13-49
 	android:stateNotNeeded
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:184:13-42
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:184:13-42
 	android:label
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:182:13-46
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:182:13-46
 	android:name
-		ADDED from [:captureActivity] /Users/felipe/Develop/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:181:13-72
+		ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:181:13-72

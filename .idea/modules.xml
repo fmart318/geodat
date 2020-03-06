@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Developer-geodat.iml" filepath="$PROJECT_DIR$/Developer-geodat.iml" />
       <module fileurl="file://$PROJECT_DIR$/captureActivity/captureActivity.iml" filepath="$PROJECT_DIR$/captureActivity/captureActivity.iml" group="geodat/captureActivity" />
-      <module fileurl="file://$PROJECT_DIR$/geodat.iml" filepath="$PROJECT_DIR$/geodat.iml" group="geodat" />
       <module fileurl="file://$PROJECT_DIR$/geodat/geodat-geodat.iml" filepath="$PROJECT_DIR$/geodat/geodat-geodat.iml" group="geodat/geodat" />
     </modules>
   </component>

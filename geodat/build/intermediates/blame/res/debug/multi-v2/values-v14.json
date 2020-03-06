@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/felipe/Develop/geodat/geodat/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/Users/felipe/Develop/geodat/geodat/src/main/res/values-v14/styles.xml",
-                    "from": {
-                        "startLines": "7,30",
-                        "startColumns": "4,1",
-                        "startOffsets": "225,1546",
-                        "endLines": "26,33",
-                        "endColumns": "12,9",
-                        "endOffsets": "1449,1771"
-                    },
-                    "to": {
-                        "startLines": "2,50",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,3311",
-                        "endLines": "21,53",
-                        "endColumns": "12,9",
-                        "endOffsets": "1260,3533"
-                    }
-                },
-                {
-                    "source": "/Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/res/values-v14/values-v14.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -39,6 +20,25 @@
                         "endLines": "26,27,28,34,40,41,42,43,44,47,48,49",
                         "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
                         "endOffsets": "1536,1607,1690,2100,2522,2642,2774,2894,2957,3111,3174,3306"
+                    }
+                },
+                {
+                    "source": "/Users/felipemartinez/Developer/geodat/geodat/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7,30",
+                        "startColumns": "4,1",
+                        "startOffsets": "225,1546",
+                        "endLines": "26,33",
+                        "endColumns": "12,9",
+                        "endOffsets": "1449,1771"
+                    },
+                    "to": {
+                        "startLines": "2,50",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,3311",
+                        "endLines": "21,53",
+                        "endColumns": "12,9",
+                        "endOffsets": "1260,3533"
                     }
                 }
             ]

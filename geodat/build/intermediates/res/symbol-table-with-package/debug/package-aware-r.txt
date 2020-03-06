@@ -859,6 +859,7 @@ id btnenviar
 id btnguardar
 id btnlogout
 id btnmapa
+id btnqr
 id button1
 id buttonPanel
 id cancel_action
@@ -1457,6 +1458,7 @@ string pregunta2
 string pregunta3
 string pregunta4
 string pregunta5
+string qr
 string register_url
 string resppos
 string resppos2
@@ -1644,6 +1646,7 @@ style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style CaptureTheme
 style DropDownListView_Rojo
 style DropDownNav_Rojo
+style HeaderStyle
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat

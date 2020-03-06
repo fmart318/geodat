@@ -104,7 +104,8 @@
     <string name="IdPunto">Id Punto</string>
     <string name="actualizar">Actualizar</string>
     <string name="nombre_app">GEODAT</string>
-    <string name="leerQr">Leer código de barras o QR</string>
+    <string name="leerQr">Resultado lectura código de barras o QR</string>
+    <string name="qr">QR</string>
     <string name="login">INICIAR SESIÓN</string>
     <string name="no_usuario">NO ES USUARIO</string>
     <string name="suscribir">SUSCRIBIR</string>

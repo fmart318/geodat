@@ -5,13 +5,18 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Timer;
+import java.util.TimerTask;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.StatusLine;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.params.ClientPNames;
 import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.params.CoreConnectionPNames;
+import org.apache.http.params.HttpParams;
 import org.json.JSONObject;
 
 import android.app.Activity;
@@ -94,8 +99,18 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 		System.out.println("readJSONFeed");
 		StringBuilder stringBuilder = new StringBuilder();
 		HttpClient httpClient = new DefaultHttpClient();
-		HttpGet httpGet = new HttpGet(URL.toString());
+		final HttpGet httpGet = new HttpGet(URL.toString());
 		try {
+			int hardTimeout = 5; // seconds
+			TimerTask task = new TimerTask() {
+				@Override
+				public void run() {
+					httpGet.abort();
+					msg = MSG_NO_CONECTION;
+				}
+			};
+			new Timer(true).schedule(task, hardTimeout * 1000);
+
 			HttpResponse response = httpClient.execute(httpGet);
 			StatusLine statusLine = response.getStatusLine();
 			int statusCode = statusLine.getStatusCode();

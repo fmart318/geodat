@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/felipe/Develop/geodat/geodat/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "/Users/felipemartinez/Developer/geodat/geodat/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/felipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/46bcfc3fe4d2415d151d2e3c09606ac1/res/values-v22/values-v22.xml",
+                    "source": "/Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

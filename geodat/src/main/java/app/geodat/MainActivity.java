@@ -39,6 +39,7 @@ import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
+import android.graphics.Typeface;
 import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationListener;
@@ -57,7 +58,9 @@ import android.provider.MediaStore;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.NotificationCompat;
+import android.support.v4.content.res.ResourcesCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.view.Gravity;
@@ -143,7 +146,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
             StrictMode.VmPolicy.Builder builder = new StrictMode.VmPolicy.Builder();
             StrictMode.setVmPolicy(builder.build());
             getSupportActionBar().setDisplayShowHomeEnabled(true);
-            getSupportActionBar().setIcon(drawable.ic_header);
+			getSupportActionBar().setIcon(drawable.ic_header);
 
         }
 
@@ -282,6 +285,12 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 //			btnSeg.setBackgroundResource(drawable.botoninv);
 //
 //		}
+
+		Toolbar toolbar = findViewById(R.id.action_bar);
+		TextView headerTitle = (TextView) toolbar.getChildAt(0);
+		headerTitle.setTextColor(getResources().getColor(R.color.white));
+		Typeface face = ResourcesCompat.getFont(getApplicationContext(), R.font.header);
+		headerTitle.setTypeface(face);
 	}
 
 	@Override
@@ -349,6 +358,9 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 			return true;
 		} else if (itemId == R.id.btnmapa) {
 			onClickMapa();
+			return true;
+		} else if (itemId == R.id.btnqr) {
+			onClickLecturaCod(new View(getApplicationContext()));
 			return true;
 		} else if (itemId == R.id.btnactualizar) {
 			try {

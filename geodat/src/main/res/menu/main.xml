@@ -2,6 +2,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/btnqr"
+        android:icon="@android:drawable/ic_menu_crop"
+        app:showAsAction ="always"
+        android:title="@string/qr"/>
+
+    <item
         android:id="@+id/btnguardar"
         android:icon="@android:drawable/ic_menu_save"
         app:showAsAction ="always"
@@ -10,17 +16,8 @@
     <item
         android:id="@+id/btnenviar"
         android:icon="@android:drawable/ic_menu_send"
-        app:showAsAction ="ifRoom"
+        app:showAsAction ="always"
         android:title="@string/Enviar"/>
-    
-<!--    <item -->
-<!--         android:id="@+id/btncheck" -->
-<!--         android:title="@string/Proyecto" -->
-<!--         android:actionLayout="@drawable/activated_background"/> -->
-   
-<!--    <item -->
-<!--         android:id="@+id/btncuentaMulti" -->
-<!--         android:title="@string/cuentaMulti"/> -->
     
     <item 
         android:id="@+id/btnmapa" 
