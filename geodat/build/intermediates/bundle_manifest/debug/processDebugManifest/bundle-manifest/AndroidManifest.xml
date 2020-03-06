@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="app.geodat"
-    android:versionCode="13"
-    android:versionName="1.3.6" >
+    android:versionCode="14"
+    android:versionName="1.3.7" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -55,7 +55,6 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/nombre_app"
         android:logo="@drawable/ic_header"
-        android:testOnly="true"
         android:theme="@style/AppBaseTheme" >
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
