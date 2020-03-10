@@ -188,8 +188,8 @@ public class ServiceSeg extends Service {
 		}
 		String imei = tm.getDeviceId();
 
-//		return (imei);
-		return "860046038880938";
+		return (imei);
+//		return "860046038880938";
 	}
 	
 	public class MyLocationListener implements LocationListener

@@ -1525,8 +1525,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 		}
 		String imei = tm.getDeviceId();
 
-//		return (imei);
-		return "860046038880938";
+		return (imei);
+//		return "860046038880938";
 	}
 
 	@SuppressWarnings("deprecation")

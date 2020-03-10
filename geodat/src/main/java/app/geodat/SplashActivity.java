@@ -74,8 +74,8 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
 		}
 		String imei = tm.getDeviceId();
 
-//		return (imei);
-		return "860046038880938";
+		return (imei);
+//		return "860046038880938";
 	}
 
 	public void login(View view) {
