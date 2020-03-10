@@ -6,6 +6,7 @@
     android:versionName="1.3.7" >
 
     <!--<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />-->
+
     <permission
         android:name="app.geodat.lautaromap.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />
@@ -45,6 +46,10 @@
             android:value="@integer/google_play_services_version" />
 
         <uses-library android:name="com.google.android.maps" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
 
         <activity
             android:name="app.geodat.SplashActivity"

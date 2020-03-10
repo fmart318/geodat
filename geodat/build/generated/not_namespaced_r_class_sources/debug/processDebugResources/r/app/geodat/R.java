@@ -606,6 +606,7 @@ public final class R {
      */
     public static final int checkedTextViewStyle=0x7f03004b;
     /**
+     * Whether or not this view should have a circular clip applied
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
@@ -1044,10 +1045,13 @@ public final class R {
      */
     public static final int iconifiedByDefault=0x7f030087;
     /**
+     * The fixed aspect ratio to use in aspect ratio adjustments.
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
     public static final int imageAspectRatio=0x7f030088;
     /**
+     * What kind of aspect ratio adjustment to do.  It must be one of "none", "adjust_width",
+     * or "adjust_height".
      * <p>Must be one of the following constant values.</p>
      * <table>
      * <colgroup align="left" />
@@ -7298,9 +7302,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop app.geodat:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio app.geodat:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust app.geodat:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop app.geodat:circleCrop}</code></td><td>Whether or not this view should have a circular clip applied</td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio app.geodat:imageAspectRatio}</code></td><td>The fixed aspect ratio to use in aspect ratio adjustments.</td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust app.geodat:imageAspectRatioAdjust}</code></td><td>What kind of aspect ratio adjustment to do.</td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -7310,8 +7314,9 @@ public final class R {
       0x7f03004c, 0x7f030088, 0x7f030089
     };
     /**
-     * <p>This symbol is the offset where the {@link app.geodat.R.attr#circleCrop}
-     * attribute's value can be found in the {@link #LoadingImageView} array.
+     * <p>
+     * @attr description
+     * Whether or not this view should have a circular clip applied
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
@@ -7320,8 +7325,9 @@ public final class R {
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link app.geodat.R.attr#imageAspectRatio}
-     * attribute's value can be found in the {@link #LoadingImageView} array.
+     * <p>
+     * @attr description
+     * The fixed aspect ratio to use in aspect ratio adjustments.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
@@ -7329,8 +7335,10 @@ public final class R {
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link app.geodat.R.attr#imageAspectRatioAdjust}
-     * attribute's value can be found in the {@link #LoadingImageView} array.
+     * <p>
+     * @attr description
+     * What kind of aspect ratio adjustment to do.  It must be one of "none", "adjust_width",
+     * or "adjust_height".
      *
      * <p>Must be one of the following constant values.</p>
      * <table>
