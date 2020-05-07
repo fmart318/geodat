@@ -356,21 +356,25 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 		} else if (itemId == R.id.btnenviar) {
 			onClickEnviar(true);
 			return true;
-		} else if (itemId == R.id.btnmapa) {
-			onClickMapa();
-			return true;
-		} else if (itemId == R.id.btnqr) {
+		}
+//		else if (itemId == R.id.btnmapa) {
+//			onClickMapa();
+//			return true;
+//		}
+		else if (itemId == R.id.btnqr) {
 			onClickLecturaCod(new View(getApplicationContext()));
 			return true;
-		} else if (itemId == R.id.btnactualizar) {
-			try {
-				new Actualizar(this, MainActivity.this).execute("", ge_timei());
-			} catch (Exception ex) {
-				notificar("Hubo un error al actualizar");
-			} finally {
-				return true;
-			}
-		} else if (itemId == R.id.btnlogout) {
+		}
+//		else if (itemId == R.id.btnactualizar) {
+//			try {
+//				new Actualizar(this, MainActivity.this).execute("", ge_timei());
+//			} catch (Exception ex) {
+//				notificar("Hubo un error al actualizar");
+//			} finally {
+//				return true;
+//			}
+//		}
+		else if (itemId == R.id.btnlogout) {
 			onClickLogout();
 			return true;
 		} else {

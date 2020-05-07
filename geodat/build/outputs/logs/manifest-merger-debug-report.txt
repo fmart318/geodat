@@ -4,20 +4,38 @@ ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifes
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-104:12
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-104:12
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-104:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/36fc2a501f21acc8fa88373c43510e8a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:16:1-20:12
 MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-187:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b0de2d78d1be8b390d521a5fac4be123/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ff915608253298709c202ff234d44885/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/252423706393489febdb5b7f273127db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e5324b393fb7c5644ba669b6a4d4d35f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d173fd9ea4418a9b7a91893137d25313/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9c224d24f03e590b85309b914bfc0cb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2b7c3bc1ec6783ecc71fc7d7d7096fee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/65b1628f46ae23794c9c2d4660eac8e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6fe30fbd71130f1282fc9ecb95aeecc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/67a9a8f98108b88b68288991eaee619a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0925274ccc942e5dbc25355e15823fa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4f461f857e3305d0cd20e94f428b4836/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7121d314dd8d2f953816f19092b55565/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f325238f213961a1ee65b7dad3134e8d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de1c196da23786a533f7684178e98af2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/04c49d20f99f028f578a761d6660364a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a413ccd0eb1a37bb8704c64296de8069/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/30db22fefba7e43f632e65359a87d3b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/79c4eef1b7c344c1fb63e427277f01a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/471dbf9a44d44396c02f19c5df51ae70/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/892c810412d6810e61abb4f8fee5caf6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3f2128cd79b3ac0724085ce4fc75c81b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d7d9b078659f4da060c0a1972c95469/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4bb081ed0b4d3dee9c92697f1507afcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8b40baeb129b97608b93912e1387e1d0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:16:1-28:12
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/AndroidManifest.xml:16:1-19:12
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:23.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/f9ad49f29fee117e58a05fc1f7e2d419/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-104:12
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-104:12
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:2:1-104:12
@@ -109,32 +127,22 @@ MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemarti
 		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:29:9-32
 application
 ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:31:5-102:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:25:5-29:19
 MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:19:5-20
 MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-185:19
 MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:5-185:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f325238f213961a1ee65b7dad3134e8d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f325238f213961a1ee65b7dad3134e8d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de1c196da23786a533f7684178e98af2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de1c196da23786a533f7684178e98af2/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:23.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/f9ad49f29fee117e58a05fc1f7e2d419/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/f9ad49f29fee117e58a05fc1f7e2d419/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f325238f213961a1ee65b7dad3134e8d/AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml:33:9-43
 		REJECTED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:9-41
@@ -260,38 +268,72 @@ uses-sdk
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/36fc2a501f21acc8fa88373c43510e8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/36fc2a501f21acc8fa88373c43510e8a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-location-8.4.0.aar/2b42b4e80ece81108c056f0cbe1e6cd1/AndroidManifest.xml:18:5-42
 MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:41
 MERGED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b0de2d78d1be8b390d521a5fac4be123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b0de2d78d1be8b390d521a5fac4be123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ff915608253298709c202ff234d44885/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ff915608253298709c202ff234d44885/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/252423706393489febdb5b7f273127db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/252423706393489febdb5b7f273127db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e5324b393fb7c5644ba669b6a4d4d35f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e5324b393fb7c5644ba669b6a4d4d35f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d173fd9ea4418a9b7a91893137d25313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d173fd9ea4418a9b7a91893137d25313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9c224d24f03e590b85309b914bfc0cb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9c224d24f03e590b85309b914bfc0cb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2b7c3bc1ec6783ecc71fc7d7d7096fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2b7c3bc1ec6783ecc71fc7d7d7096fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/65b1628f46ae23794c9c2d4660eac8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/65b1628f46ae23794c9c2d4660eac8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6fe30fbd71130f1282fc9ecb95aeecc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6fe30fbd71130f1282fc9ecb95aeecc8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/67a9a8f98108b88b68288991eaee619a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/67a9a8f98108b88b68288991eaee619a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0925274ccc942e5dbc25355e15823fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0925274ccc942e5dbc25355e15823fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4f461f857e3305d0cd20e94f428b4836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4f461f857e3305d0cd20e94f428b4836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7121d314dd8d2f953816f19092b55565/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7121d314dd8d2f953816f19092b55565/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f325238f213961a1ee65b7dad3134e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f325238f213961a1ee65b7dad3134e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de1c196da23786a533f7684178e98af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de1c196da23786a533f7684178e98af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/04c49d20f99f028f578a761d6660364a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/04c49d20f99f028f578a761d6660364a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a413ccd0eb1a37bb8704c64296de8069/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a413ccd0eb1a37bb8704c64296de8069/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/30db22fefba7e43f632e65359a87d3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/30db22fefba7e43f632e65359a87d3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/79c4eef1b7c344c1fb63e427277f01a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/79c4eef1b7c344c1fb63e427277f01a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/471dbf9a44d44396c02f19c5df51ae70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/471dbf9a44d44396c02f19c5df51ae70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/892c810412d6810e61abb4f8fee5caf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/892c810412d6810e61abb4f8fee5caf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3f2128cd79b3ac0724085ce4fc75c81b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3f2128cd79b3ac0724085ce4fc75c81b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d7d9b078659f4da060c0a1972c95469/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2d7d9b078659f4da060c0a1972c95469/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4bb081ed0b4d3dee9c92697f1507afcc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4bb081ed0b4d3dee9c92697f1507afcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8b40baeb129b97608b93912e1387e1d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8b40baeb129b97608b93912e1387e1d0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:26:5-42
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/ba251002edcf3fba7ad379ef72945f21/AndroidManifest.xml:26:5-42
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/6bb5ae81a90a19ad04ea23ac24fde66b/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/972b403dbb35af67310d2117a901cd02/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:23.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/f9ad49f29fee117e58a05fc1f7e2d419/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.0.aar/f9ad49f29fee117e58a05fc1f7e2d419/AndroidManifest.xml:20:5-43
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
@@ -300,28 +342,6 @@ INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidMani
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 		ADDED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
 		INJECTED from /Users/felipemartinez/Developer/geodat/geodat/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/0cbbfaef7299426c77337c52f565824d/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/d39267e00c93505a95b42856f30ee345/AndroidManifest.xml:23:9-25:44
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-v4:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/921763e3b1aeb660b13d538340980f5d/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/0de8013c4842a6683e4312f4104cc9dd/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-fragment:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/f71ba8760360e45274032ea95ee6dcf3/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/887d98b0577eaacf95aa8b3529cf05ba/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/87cf103d85072ee72b13fa67810aceda/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:26:9-28:44
-MERGED from [com.android.support:support-compat:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/c4c38faad7e12bd4384b4c7b188a7062/AndroidManifest.xml:26:9-28:44
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:28:13-41
-	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] /Users/felipemartinez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/a8165ea52e5038e41497d81646e1a3ac/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.VIBRATE
 ADDED from [:captureActivity] /Users/felipemartinez/Developer/geodat/captureActivity/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-66
 	android:name

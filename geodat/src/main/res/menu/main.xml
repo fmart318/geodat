@@ -19,13 +19,13 @@
         app:showAsAction ="always"
         android:title="@string/Enviar"/>
     
-    <item 
-        android:id="@+id/btnmapa" 
-        android:title="@string/mapa"/>
-   
-    <item 
-        android:id="@+id/btnactualizar" 
-        android:title="@string/actualizar"/>
+<!--    <item -->
+<!--        android:id="@+id/btnmapa" -->
+<!--        android:title="@string/mapa"/>-->
+<!--   -->
+<!--    <item -->
+<!--        android:id="@+id/btnactualizar" -->
+<!--        android:title="@string/actualizar"/>-->
 
     <item
         android:id="@+id/btnlogout"
