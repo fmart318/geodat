@@ -13,13 +13,9 @@ import org.apache.http.HttpResponse;
 import org.apache.http.StatusLine;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.params.ClientPNames;
 import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.params.CoreConnectionPNames;
-import org.apache.http.params.HttpParams;
 import org.json.JSONObject;
 
-import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -47,7 +43,7 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 	Context context;
 	private ProgressDialog pDialog;
 	String ip = "";
-	String imei = "";
+	String userId = "";
 	String url = "";
 	String msg = "Error";
 
@@ -84,8 +80,8 @@ public class Actualizar extends AsyncTask<String, Object, String> {
 	protected String doInBackground(String... params) {
 		System.out.println("doInBackground");
 		this.ip = params[0];
-		this.imei = params[1];
-		this.url = "https://geodatlog.com/" + "programas/actualizar/actualizar.php?IMEI=" + imei;
+		this.userId = params[1];
+		this.url = "https://geodatlog.com/" + "programas/actualizar/actualizar.php?IMEI=" + userId;
 
 		Log.d(TAG, "Url: " + url);
 		String result = readJSONFeed(url);

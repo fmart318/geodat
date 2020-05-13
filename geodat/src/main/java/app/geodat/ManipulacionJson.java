@@ -62,7 +62,7 @@ public class ManipulacionJson {
 		f.setTimeZone(TimeZone.getTimeZone("UTC"));
 		String formatoFecha = f.format(new Date());
 
-		String nombre = main.ge_timei() + "_" + formatoFecha;
+		String nombre = main.getUserId() + "_" + formatoFecha;
 
 		// Objeto JSON
 
@@ -71,7 +71,7 @@ public class ManipulacionJson {
 			JSONObject json = new JSONObject();
 			try {
 
-				json.put("Imei", Double.parseDouble(main.ge_timei()));
+				json.put("Imei", Double.parseDouble(main.getUserId()));
 				// json.put("Cliente", s1);
 				json.put("Proyecto", fjson.getProyectos());
 				// json.put("Certificador", E2a);

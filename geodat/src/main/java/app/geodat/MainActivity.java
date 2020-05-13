@@ -436,11 +436,10 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 	}
 
 	private void onClickMapa() {
-		String imei = ge_timei();
+		String userId = getUserId();
 		Intent intent = new Intent(Intent.ACTION_VIEW,
-				Uri.parse("https://geodatlog.com/" + "/programas/agente/mapa.php?IMEI=" + imei));
+				Uri.parse("https://geodatlog.com/" + "/programas/agente/mapa.php?IMEI=" + userId));
 		startActivity(intent);
-
 	}
 
 	@Override
@@ -1057,9 +1056,9 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 		TextView lon = (TextView) findViewById(R.id.textView22l);
 		String lats = (String) lat.getText();
 		String lons = (String) lon.getText();
-		String imei = ge_timei();
+		String userID = getUserId();
 
-		foto = Constantes.directorio + imei + "_" + formatoFecha + "_" + lats + ";" + lons
+		foto = Constantes.directorio + userID + "_" + formatoFecha + "_" + lats + ";" + lons
 				+ "_TEMP.jpg";
 
 		Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
@@ -1521,15 +1520,27 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
 
 	}
 
-	public String ge_timei() {
-
-		TelephonyManager tm = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
-		if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
-			Toast.makeText( getApplicationContext(), "Imei necesario", Toast.LENGTH_SHORT ).show();
+	public String getUserId() {
+		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+		String userId = prefs.getString(getString(R.string.user_id), "-");
+		if (userId != null && !userId.isEmpty() && !"-".equals(userId)) {
+			return userId;
+		} else {
+			String imei = getIMEI();
+			if (imei != null) {
+				return imei;
+			}
 		}
-		String imei = tm.getDeviceId();
 
-		return (imei);
+		return "";
+	}
+
+	@SuppressLint("HardwareIds")
+	public String getIMEI() {
+		if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
+			return null;
+		}
+		return (((TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE)).getDeviceId());
 //		return "860046038880938";
 	}
 

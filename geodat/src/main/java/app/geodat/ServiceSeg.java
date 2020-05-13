@@ -17,6 +17,7 @@ import org.json.JSONObject;
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -24,6 +25,7 @@ import android.location.LocationManager;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.IBinder;
+import android.preference.PreferenceManager;
 import android.support.v4.app.ActivityCompat;
 import android.telephony.TelephonyManager;
 import android.util.Log;
@@ -96,7 +98,7 @@ public class ServiceSeg extends Service {
 			actualizarFecha();
 			JSONObject json = new JSONObject();
 			try {
-				String imei = get_imei();
+				String imei = getId();
 				json.put("Imei", Double.parseDouble(imei));
 				json.put("Timestamp", fecha);
 
@@ -110,7 +112,7 @@ public class ServiceSeg extends Service {
 				e.printStackTrace();
 			}
 			String fe = fecha.replace(':', '.');
-			String nombre = get_imei() + "_" + fe;
+			String nombre = getId() + "_" + fe;
 
 			guardarArchivo(json, nombre);
 			//contar();
@@ -180,20 +182,19 @@ public class ServiceSeg extends Service {
 		}
 	}
 
-	public String get_imei() {
-
-		TelephonyManager tm = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
-		if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
-			Toast.makeText( getApplicationContext(), "Imei necesario", Toast.LENGTH_SHORT ).show();
+	public String getId() {
+		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+		String userId = prefs.getString(getString(R.string.user_id), "-");
+		if (userId != null && !userId.isEmpty() && !"-".equals(userId)) {
+			return userId;
+		} else {
+			Toast.makeText( getApplicationContext(), "Id necesario", Toast.LENGTH_SHORT ).show();
+			return "";
 		}
-		String imei = tm.getDeviceId();
-
-		return (imei);
 //		return "860046038880938";
 	}
 	
-	public class MyLocationListener implements LocationListener
-	 {
+	public class MyLocationListener implements LocationListener {
 	
 	     public void onLocationChanged(final Location loc)
 	     {

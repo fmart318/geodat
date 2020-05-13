@@ -16,7 +16,6 @@
         android:layout_alignStart="@+id/splash"
         android:layout_alignParentEnd="true"
         android:layout_centerVertical="true"
-
         android:src="@drawable/arrows" />
 
     <ImageView
@@ -34,15 +33,32 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="31dp"/>
+        android:layout_marginBottom="31dp"
+        android:orientation="vertical" />
+
+    <EditText
+        android:id="@+id/id_input_field"
+        android:background="@drawable/backwithborder"
+        android:textColor="@color/grayDark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/id_placeholder"
+        android:textColorHint="@color/place_autocomplete_search_hint"
+        android:layout_below="@+id/arrows"
+        android:padding="10dp"
+        android:gravity="center_horizontal"
+        android:inputType="numberPassword"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:layout_marginTop="20dp"/>
 
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/arrows"
+        android:layout_below="@+id/id_input_field"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/botonlogin"
         android:onClick="login"
         android:text="@string/login"

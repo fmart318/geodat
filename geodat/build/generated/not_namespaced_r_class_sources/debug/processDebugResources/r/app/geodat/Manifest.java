@@ -9,9 +9,6 @@ package app.geodat;
 
 public final class Manifest {
   public static final class permission {
-    /**
-     * <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />
-     */
     public static final String MAPS_RECEIVE="app.geodat.lautaromap.permission.MAPS_RECEIVE";
   }
 

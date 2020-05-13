@@ -114,11 +114,13 @@
 
     <string name="new_user_title">Hola y gracias por descargar GEODAT!</string>
     <string name="new_user_button">Registrar</string>
-    <string name="new_user_text">"Al parecer no está vinculado a una cuenta en este momento. Para poder acceder a una cuenta GRATUITA de prueba y comenzar a usar el servicio por favor registrese. Si ya se registro, por favor aguarde a que se complete el proceso. Gracias!</string>
+    <string name="new_user_text">"Al parecer no está vinculado a una cuenta en este momento. Para poder acceder a una cuenta GRATUITA de prueba y comenzar a usar el servicio por favor registrese. Si ya se registro, por favor ingrese por primera y única vez su “# de ID” asignado. Gracias!</string>
     <string name="register_url">https://geodat.app/activacionnuevacuenta.html</string>
 
     <string name="no_network_title">No hay conexión en este momento</string>
     <string name="no_network_button">CONTINUAR SIN CONEXIÓN</string>
     <string name="no_network_text">"Si ya está registrado y desea recolectar datos sin conexión proceda y luego podrá enviar los mismos cuando tenga conectividad nuevamente. Para registrarse por primera vez debe tener conexión.</string>
-
+    <string name="id_placeholder">"Ingresar ID Geodat"</string>
+    <string name="shared_pref_geodat">""com.geodat.geodat.preferences""</string>
+    <string name="user_id">"user_id"</string>
 </resources>
