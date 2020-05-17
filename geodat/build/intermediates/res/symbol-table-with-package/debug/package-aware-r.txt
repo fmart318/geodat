@@ -1311,6 +1311,7 @@ string button_sms
 string button_web_search
 string button_wifi
 string cargarProyectos
+string channel_description
 string check
 string checklist
 string chkcert

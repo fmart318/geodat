@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v4.app.ActivityCompat;
@@ -26,7 +27,8 @@ import static android.widget.Toast.makeText;
 
 public class SplashActivity extends FragmentActivity implements ActualizarDelegate {
 
-    private static final int PERMISSION_ALL = 100;
+    private static final int BASIC_PERMISSIONS = 100;
+
     String[] PERMISSIONS = {
             Manifest.permission.READ_EXTERNAL_STORAGE,
             Manifest.permission.WRITE_EXTERNAL_STORAGE,
@@ -34,7 +36,6 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
             Manifest.permission.ACCESS_COARSE_LOCATION,
             Manifest.permission.ACCESS_FINE_LOCATION,
             Manifest.permission.RECORD_AUDIO,
-            Manifest.permission.READ_PHONE_STATE,
             Manifest.permission.CAMERA
     };
     ProgressBar viewProgressBar;
@@ -46,14 +47,14 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
         super.onCreate(arg0);
         setContentView(R.layout.activity_splash);
 
-        final ImageView arrows = (ImageView) findViewById(R.id.arrows);
+        final ImageView arrows = findViewById(R.id.arrows);
         Animation myFadeInAnimation = AnimationUtils.loadAnimation(this, R.anim.blink);
         arrows.startAnimation(myFadeInAnimation);
 
-        userIdEditText = (EditText) findViewById(R.id.id_input_field);
-        viewProgressBar = (ProgressBar) findViewById(R.id.progressBar);
+        userIdEditText = findViewById(R.id.id_input_field);
+        viewProgressBar = findViewById(R.id.progressBar);
 
-		setupUserId();
+        setupUserId();
     }
 
     private void startMainActivity() {
@@ -67,24 +68,27 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
         String userId = prefs.getString(getString(R.string.user_id), "-");
         if (userId != null && !userId.isEmpty() && !"-".equals(userId)) {
-			userIdEditText.setText(userId);
+            userIdEditText.setText(userId);
         } else {
-			String imei = getIMEI();
-			if (imei != null) {
+            String imei = getIMEI();
+            if (imei != null) {
                 userIdEditText.setText(imei);
-			}
-		}
+            }
+        }
     }
 
-	public void saveUserId() {
-		SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
-		SharedPreferences.Editor editor = sharedPref.edit();
-		editor.putString(getString(R.string.user_id), userIdEditText.getText().toString());
-		editor.apply();
-	}
+    public void saveUserId() {
+        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+        SharedPreferences.Editor editor = sharedPref.edit();
+        editor.putString(getString(R.string.user_id), userIdEditText.getText().toString());
+        editor.apply();
+    }
 
     @SuppressLint("HardwareIds")
     public String getIMEI() {
+        if (android.os.Build.VERSION.SDK_INT > Build.VERSION_CODES.P) {
+            return null;
+        }
         if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
             return null;
         }
@@ -93,7 +97,7 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
     }
 
     public void login(View view) {
-		new Actualizar(this, SplashActivity.this).execute("", userIdEditText.getText().toString());
+        checkAllLogin();
     }
 
     public static boolean hasPermissions(Context context, String... permissions) {
@@ -107,18 +111,16 @@ public class SplashActivity extends FragmentActivity implements ActualizarDelega
         return true;
     }
 
-
-//    @Override
-//    public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
-//        switch (requestCode) {
-//            case PERMISSION_ALL: {
-//                if (grantResults.length > 0
-//                        && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-//                    checkAllLogin();
-//                }
-//            }
-//        }
-//    }
+    public void checkAllLogin() {
+        if (!hasPermissions(this, PERMISSIONS)) {
+            ActivityCompat.requestPermissions(this, PERMISSIONS, BASIC_PERMISSIONS);
+        } else {
+            try {
+                new Actualizar(this, SplashActivity.this).execute("", userIdEditText.getText().toString());
+            } catch (Exception ignored) {
+            }
+        }
+    }
 
     @Override
     public void actualizarExitoso() {

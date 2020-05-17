@@ -123,4 +123,5 @@
     <string name="id_placeholder">"Ingresar ID Geodat"</string>
     <string name="shared_pref_geodat">""com.geodat.geodat.preferences""</string>
     <string name="user_id">"user_id"</string>
+    <string name="channel_description">Geodat Notification Channel</string>
 </resources>
